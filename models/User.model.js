@@ -30,7 +30,7 @@ const userSchema = new Schema(
         }
     }, 
     {
-        collection : 'User', 
+        collection : 'Users', 
         timestamps : true
     }
 ); 
