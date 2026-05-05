@@ -6,7 +6,11 @@ const mongoose = require("mongoose");
 const { PORT, MONGO_URI } = process.env; 
 
 server.use(express.json()); 
+ 
+const logMiddleware = require("./middlewares/log.middleware")
+server.use(logMiddleware())
 
+const cors = require('cors')
 // Routes
 const router = require('./routes'); 
 server.use('/api', router); 
