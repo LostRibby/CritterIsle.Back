@@ -1,7 +1,8 @@
+require('dotenv').config();
 const express = require('express');
 const server = express(); 
-
 const mongoose = require("mongoose"); 
+
 
 const { PORT, MONGO_URI } = process.env; 
 
@@ -10,10 +11,15 @@ server.use(express.json());
 const logMiddleware = require("./middlewares/log.middleware")
 server.use(logMiddleware())
 
-const cors = require('cors')
+const cors = require('cors');
+ server.use(cors({
+     origin : 'http://localhost:5173',
+     methods: ['GET', 'POST', 'PUT', 'PATCH', 'DELETE']
+}))
 // Routes
 const router = require('./routes'); 
 server.use('/api', router); 
+
 
 // Connexion DB + démarrage serveur
 mongoose.connect(MONGO_URI, { dbName: 'CritterIsle' })

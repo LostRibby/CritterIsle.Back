@@ -1,53 +1,53 @@
-const jwt = require('jsonwebtoken'); 
-
-const {JWT_ISSUER, JWT_AUDIENCE, JWT_SECRET} = process.env; 
+const jwt = require('jsonwebtoken');
 
 const jwtUtils = {
 
-    generate : (user)=>{
-        return new Promise( (resolve, reject)=>{
-            const playload ={
-                id: user._id, 
-                role : user.role
-            }
-            const options = {
-                algorithm : 'HS256',
-                expiresIn : '3d',
-                audience : JWT_AUDIENCE, 
-                issuer : JWT_ISSUER
-            }
+    generate: (user) => {
+        const { JWT_ISSUER, JWT_AUDIENCE, JWT_SECRET } = process.env;
 
-            //creation du token
-            jwt.sign(playload, JWT_SECRET, options, (error, token)=>{
-                if(error){
-                    reject(error); 
-                }
+        if (!JWT_SECRET || !JWT_ISSUER || !JWT_AUDIENCE) {
+            throw new Error("JWT environment variables missing");
+        }
+
+        return new Promise((resolve, reject) => {
+            const payload = {
+                id: user._id,
+                role: user.role
+            };
+
+            const options = {
+                algorithm: 'HS256',
+                expiresIn: '3d',
+                audience: JWT_AUDIENCE,
+                issuer: JWT_ISSUER
+            };
+
+            jwt.sign(payload, JWT_SECRET, options, (error, token) => {
+                if (error) return reject(error);
                 resolve(token);
-            })
-        })
-    }, 
+            });
+        });
+    },
 
-    decode : (token) =>{
-        return new Promise((resolve, reject)=>{
-            if(!token){
-                reject(new Error('PAs de token reçu'))
-            }
+    decode: (token) => {
+        const { JWT_ISSUER, JWT_AUDIENCE, JWT_SECRET } = process.env;
 
-            const options = {
-                audience : JWT_AUDIENCE,
-                issuer : JWT_ISSUER
-            }
+        if (!token) {
+            return Promise.reject(new Error('Pas de token reçu'));
+        }
 
-            jwt.verify(token,JWT_SECRET, options, (error, playload)=>{
-                if(error){
-                   reject(error);
-            }
-        
-            resolve(playload); 
-        })
+        const options = {
+            audience: JWT_AUDIENCE,
+            issuer: JWT_ISSUER
+        };
 
-        })
+        return new Promise((resolve, reject) => {
+            jwt.verify(token, JWT_SECRET, options, (error, payload) => {
+                if (error) return reject(error);
+                resolve(payload);
+            });
+        });
     }
-}
+};
 
-module.exports = jwtUtils; 
+module.exports = jwtUtils;

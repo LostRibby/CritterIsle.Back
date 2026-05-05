@@ -18,6 +18,6 @@ router.use('/Creatures', DeepSeaCreatureRouter);
 
 router.use ('/Users', userRouter);
 
-router.use ('/Auth', authRouter); 
+router.use ('/auth', authRouter); 
 
 module.exports = router; 
