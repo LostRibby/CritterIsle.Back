@@ -1,0 +1,10 @@
+{
+  "_id": "53",
+  "name": "Poisson-lanterne",
+   "image": "NH-Icon-footballfish.png", 
+   "price": "2500", 
+   "location": "mer", 
+   "season": ["hiver", "printemps", "automne"],
+   "description": "Le plus étonnant chez le poisson lanterne, c'est que la femelle peut prendre soin de plusieurs mâles. Tu as bien entendu ! Une femelle poisson lanterne va nourrir plusieurs mâles elle-même ! En revanche, les mâles ne font pas de nids et ne cherchent pas à manger. Ils restent collés à la femelle ! Autre chose : seule la femelle possède cette étonnante antenne lumineuse ! On peut être romantique de plusieurs manières différentes chez les animaux, ouh !",
+   "jdm": "Tu as pris un poisson lanterne ! Pourtant, il est plutôt rapide et brillant !"
+}

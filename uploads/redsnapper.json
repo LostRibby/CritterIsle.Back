@@ -1,0 +1,10 @@
+{
+  "_id": "80",
+  "name": "Vivaneau",
+   "image": "NH-Icon-redsnapper.png", 
+   "price": "3000", 
+   "location": "mer", 
+   "season": ["hiver", "printemps", "été", "automne"],
+   "description": "Le terme vivaneau désigne une dizaine de poissons, et j'ignore pourquoi il est tellement employé. Y a-t-il tant de poissons présentant la même nuance de rouge et la même tendance à mordiller ? Et n'y a-t-il pas d'autre nom ? Et la morsure écarlate ? la mâchoire grenat ? Le croc cramoisi ?",
+   "jdm": "Tu as pris un vivaneau ! Rien à voir avec le vivayaisse !"
+}

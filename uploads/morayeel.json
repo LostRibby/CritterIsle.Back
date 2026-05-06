@@ -1,0 +1,10 @@
+{
+  "_id": "43",
+  "name": "Murène",
+   "image": "NH-Icon-morayeel.png", 
+   "price": "2000", 
+   "location": "mer", 
+   "season": ["été", "automne"],
+   "description": "Malgré ses caractéristiques propres à inspirer l'effroi, ce que la murène a de plus effroyable reste sa lâcheté. Cette vile créature passe ainsi sa vie dans des cavernes, ne se résolvant à l'affrontement que s'il est inévitable. Bouche énorme et dents acérées mais courage minuscule et frousse hypertrophiée !",
+   "jdm": "Tu as pris une murène ! Elle habite dans un muchâteau !"
+}

@@ -1,0 +1,10 @@
+{
+  "_id": "56",
+  "name": "Poisson-ballon",
+   "image": "NH-Icon-blowfish.png", 
+   "price": "5000", 
+   "location": "mer", 
+   "season": ["hiver", "automne"],
+   "description": "Comme on le sait, le 'poisson-ballon, avec son poison fatal, compte parmi les créatures les plus toxiques. Ce qui est moins connu, par contre, c'est que son poison et ses piquants ne constituent pas sa seule défense ! Face à un prédateur trop gourmand qui tente de l'avaler, il peut enfler et facilement étouffer l'imprudent... Entre nous, si ce dernier y survit après avoir fait face au poison et aux piquants, il a bien mérité un en-cas.",
+   "jdm": "Bien joué ! Tu as pris un poisson-ballon ! Voilà le meilleur ami des poissons sportifs !"
+}

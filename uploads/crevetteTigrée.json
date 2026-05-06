@@ -1,0 +1,10 @@
+{
+  "_id": "19",
+  "name": "Crevette tigrée",
+   "image": "96px-Tiger_Prawn_NH_Icon.png", 
+   "price": "3000", 
+   "speed": "moyen", 
+   "season": ["été"],
+   "description": "La crevette tigrée est un crustacé jovial que l'on trouve dans de nombreux coins du globe. Couverte de rayures dont elle tire son nom, elle change de carapace lors de mues de croissance. Ah, tout le monde n'a pas la chance de pouvoir s'offrir une plus grande maison à si vil prix... Mais je m'égare ! Ce que cette créature a de plus fascinant, c'est indubitablement ses pattes. Cinq paires pour nager, cinq paires pour marcher... et trois paires pour casser la croûte ! Ce qui nous fait un honorable total de 26 pattes par crevette. Ça en fait, des paires de chaussures à cirer...",
+   "jdm": "Tu as remonté une crevette tigrée ! Tu crois qu'il y a aussi des crevettes à pois ?"
+}

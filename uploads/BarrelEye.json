@@ -1,0 +1,11 @@
+
+{
+  "_id": "41",
+  "name": "Macropinna",
+   "image": "NH-Icon-barreleye.png", 
+   "price": "15000", 
+   "location": "mer", 
+   "season": ["hiver", "printemps", "été", "automne"],
+    "description": "Le macropinna est un poisson pélagique aux yeux protubérants et à la tête... translucide. Oui, certains de ses organes sont visibles ! Tu me diras que cela relève de la dernière absurdité, mais... Connais-tu un meilleur moyen de voir directement ce qui se passe au-dessus de soi ? Ceci dit, plus je découvre de choses à propos de la haute mer, plus je suis heureux de vivre à l'air libre !",
+   "jdm":"Tu as pris un macropinna ! On dirait un poisson aquarium !"
+}

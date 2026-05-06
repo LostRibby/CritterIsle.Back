@@ -1,0 +1,10 @@
+{
+  "_id": "14",
+  "name": "Crabe des neiges",
+   "image": "96px-Snow_Crab_NH_Icon.png", 
+   "price": "6000", 
+   "speed": "rapide", 
+   "season": ["hiver", "printemps"],
+   "description": "Le moins que l'on puisse dire, c'est que le crabe des neiges n'usurpe pas son nom. Adepte des mers septentrionales glacées, on l'a déjà aperçu barbotant paisiblement dans l'océan Arctique ! Il aime les eaux profondes, où la température plafonne à trois degrés au-dessus du point de solidification. Rien que d'évoquer ces lieux glacials, ces antres abyssaux et ces grottes, j'en ai les plumes qui grelotent !",
+   "jdm": "Tu as remonté un crabe des neiges ! Il est champion de ski alpince !"
+}

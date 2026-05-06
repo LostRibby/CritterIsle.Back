@@ -1,0 +1,11 @@
+
+{
+  "_id": "5",
+  "name": "Bar",
+   "image": "NH-Icon-blackbass.png", 
+   "price": "400", 
+   "location": "rivière", 
+   "season": ["hiver", "printemps", "été", "automne"], 
+   "description": "Le bar est un poisson fort costaud, ce qui en fait une cible privilégiée par les pêcheurs à gros bras. Dans certaines régions, il s'en trouve même qui ne jurent que par lui, et le briguent comme un trophée ! Tandis que dans d'autres zones, le bar est vu comme une créature nuisant à la biosphère. Il est exact qu'on l'a parfois introduit dans des rivières qui n'étaient guère adaptées. Et là, ça peut partir à vau-l'eau.",
+   "jdm": "Tu as pris un bar ! Sur un bateau, le bar barre !"
+}

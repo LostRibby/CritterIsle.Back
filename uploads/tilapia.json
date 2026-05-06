@@ -1,0 +1,10 @@
+{
+  "_id": "75",
+  "name": "Tilapia",
+   "image": "NH-Icon-tilapia.png", 
+   "price": "800", 
+   "location": "étang", 
+   "season": ["été"],
+   "description": "Le tilapia, d'une admirable capacité d'adaptation, se sent à l'aise dans toutes les rivières assez chaudes. S'il se nourrit surtout d'algues, il ne dédaigne pas les larves, les poissons morts, ni rien de ce qu'il peut avaler. Loin de moi l'idée de juger ! Petit, je considérais aussi pouvoir manger tout ce que mon bec pouvait saisir !",
+   "jdm": "Tu as pris un tilapia ! Il habite dans un ticlapier !"
+}

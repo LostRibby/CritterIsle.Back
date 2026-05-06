@@ -1,0 +1,10 @@
+{
+  "_id": "35",
+  "name": "Guppy",
+   "image": "NH-Icon-guppy.png", 
+   "price": "1300", 
+   "location": "rivière", 
+   "season": ["printemps", "été", "automne"],
+   "description": "Oh, quel spectacle ! Je ne connais qu'un poisson aussi élégant, et c'est le guppy ! Le roi du chic aquatique ! La teinte ainsi que la forme de ses nageoires ne connaissent nul équivalent à travers les flots. Tu crois qu'il existe un concours du guppy le plus pimpant... Et si oui, tu crois que je serai invité ? ",
+   "jdm": "Tu as pris un guppy ! Il plairait à mon papy !"
+}

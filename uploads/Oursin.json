@@ -1,0 +1,10 @@
+{
+  "_id": "32",
+  "name": "Oursin",
+   "image": "96px-Sea_Urchin_NH_Icon.png", 
+   "price": "1700", 
+   "speed": "lent", 
+   "season": ["printemps", "été"],
+   "description": "Ah l'oursin ! Le gothique flamboyant des sols marins ! En effet, ses piquants sombres ne lui donnent-ils pas un charme ravageur de chanteur punk-rock ? Peut-être ses cousins à l'allure plus discrète, concombre et étoile de mer, rougissent-ils de cette exubérance... Ceci expliquerait la façon dont les étoiles de mers n'hésitent pas à gober de l'oursin à la première occasion ! Mais ne te fais pas de mouron pour notre ami. Ses piquants venimeux le protègent de maints prédateurs. Et à défaut, ses pattes en forme de tubes lui permettent de se sauver prestement à l'abri du danger. Eh oui, en forme de tubes ! Quelle sera la prochaine extravagance de ce rebelle des flots, on se le demande !",
+   "jdm": "Tu as remonté un oursin ! J'en connais qui en ont plein les poches !"
+}

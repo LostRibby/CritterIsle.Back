@@ -1,0 +1,10 @@
+{
+  "_id": "30",
+  "name": "Nautile",
+   "image": "96px-Chambered_Nautilus_NH_Icon.png", 
+   "price": "1800", 
+   "speed": "lent", 
+   "season": ["printemps", "été", "automne"],
+   "description": "Comment citer le nautile sans évoquer sa splendide et célèbre carapace... Non seulement son intérieur brille d'un lustre éclatant, mais selle constitue une spirale quasi-parfaite. Mais on se fourvoierait en en tirant la conclusion que le nautile n'est qu'un bellâtre superficiel ! Oh, que non ! Parlons plutôt des nombreux tentacules de ce céphalopode... il en a jusqu'à 90 ! Ces appendices sont couverts d'une substance gluante lui permettant de capturer ses proies. Et, à choisir, j'aime autant qu'il s'en serve ainsi plutôt que pour me faire un câlin.",
+   "jdm": "Tu as remonté un nautile ! C'est toujours très utile !"
+}

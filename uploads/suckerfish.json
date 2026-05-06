@@ -1,0 +1,10 @@
+{
+  "_id": "64",
+  "name": "Rémora rayée",
+   "image": "NH-Icon-suckerfish.png", 
+   "price": "1500", 
+   "location": "mer", 
+   "season": ["été"],
+   "description": "La rémora rayé a la curieuse manie de s’accrocher aux grandes créatures marines avec sa ventouse supérieure. Cela lui permet de se régaler gratis des petits parasites et de la peau morte du corps de son hôte. Il paraît d’ailleurs que des petits malins exploitent cette particularité pour pêcher la tortue en haute mer… Ils immergent des cordes de rémoras et attendent que ceux-ci se collent à leur victime pour remonter le tout ! Je crains qu’une conduite aussi perfide n’occasionne des débats houleux entre poissons et tortues !",
+   "jdm": " Tu as pris un rémora rayé ! Tu as vu sa ventouse ?"
+}

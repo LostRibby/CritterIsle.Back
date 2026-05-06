@@ -1,0 +1,11 @@
+
+{
+  "_id": "8",
+  "name": "Bouvière",
+   "image": "NH-Icon-bitterling.png", 
+   "price": "900", 
+   "location": "rivière", 
+   "season": ["hiver"], 
+      "description": "La bouvière dissimule ses œufs dans de gros mollusques où ils peuvent arriver à maturation tout à leur aise... Mais ce ne sont pas des profiteurs ! Non, ils veillent à la bonne santé de leur hôte en boulottant les parasites. Cette admirable entraide n'est-elle pas un chef-d’œuvre de l'évolution ? Chacun protège l'autre... Certes, drôle d'enfance que celle qui consiste à avaler des parasites. Mais enfin, quel merveilleux spécimen !",
+   "jdm": "Tu as pris une bouvière ! C’est pas la femelle du bouvier ?"
+}

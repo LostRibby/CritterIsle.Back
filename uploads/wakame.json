@@ -1,0 +1,10 @@
+{
+  "_id": "40",
+  "name": "Wakame",
+   "image": "96px-Seaweed_NH_Icon.png", 
+   "price": "600", 
+   "speed": "immobile", 
+   "season": ["hiver", "printemps", "été", "automne"],
+   "description": "D'abord, ceux qui ne voient dans le wakame qu'un ingrédient de salade en racontent de belles, de salades. Loin de n'être qu'une vulgaire algue, il s'agit d'une espèce essentielle à la vie sous-marine et même terrestre ! En effet, non contente de fournir le gîte et le couvert à toutes sortes de créature des mers... elle produit également quantité de cet oxygène que nous autres, vivant à la surface, avalons goulûment ! Ceci dit, je ne peux réprimer un léger dégoût quand elle me chatouille en pleine baignade... Bêrk, bêrk, rage !",
+   "jdm": "Tu as remonté du wakame ! C'est du wakame, Léon !"
+}

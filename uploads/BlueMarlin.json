@@ -1,0 +1,10 @@
+{
+  "_id": "42",
+  "name": "Marlin Bleu",
+   "image": "NH-Icon-bluemarlin.png", 
+   "price": "10000", 
+   "location": "ponton", 
+   "season": ["hiver", "printemps", "été", "automne"],
+   "description": "Le marlin bleu, peu ordinaire cousin du thon, se reconnaît à son absence d'écailles et à sa forme angulaire. Il peut afficher plus de 4 m à la toise, et certains témoignages affirment en avoir vu affronter des baleines ! Il n'est guère étonnant que ça soit la coqueluche des pêcheurs sportifs. Voilà un adversaire de qualité !",
+   "jdm": "Tu as pris un marlin bleu ! Il fait moins le marlin !"
+}

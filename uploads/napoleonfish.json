@@ -1,0 +1,10 @@
+{
+  "_id": "45",
+  "name": "Napoléon",
+   "image": "NH-Icon-napoleonfish.png", 
+   "price": "10000", 
+   "location": "mer", 
+   "season": ["été"],
+   "description": "Ouh, belle prise ! Le napoléon, à l'ai débonnaire et à la flatteuse carrure, ne passe certes pas inaperçu. sa tête imposante et ses yeux perçants affiche de belles couleurs, comme tout poisson tropical qui se respecte. Hélas, ce spécimen représente une espèce menacée pour de nombreuses et tristes raisons... C'est pourquoi je ne saurais trop t'encourager à prendre soin de notre ami bariolé et de son environnement.",
+   "jdm": "Tu as pris un Napoléon ! L'empereur de tous les poissons !"
+}

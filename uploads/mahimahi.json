@@ -1,0 +1,10 @@
+{
+  "_id": "21",
+  "name": "Coryphène",
+   "image": "NH-Icon-mahimahi.png", 
+   "price": "6000", 
+   "location": "mer", 
+   "season": ["printemps", "été", "automne"],
+   "description": "Le Coryphène est un poisson d'eau de mer connu pour l'air avenant que certains trouvent à sa large tête. Sa taille honorable pouvant atteindre 2 m lui vaut de nombreux sobriquets, comme celui de poisson-dauphin. Ne va pas en déduire qu'il entretient le moindre rapport avec nos amis cétacés, c'est un surnom arbitraire ! A part cette aberration scientifique, on peut signaler qu'il vit dans les eaux douces et tropicales... Et qu'à mon humble avis, il ne faut pas chercher plus loin l'origine de son air bonasse et satisfait !",
+   "jdm": "Tu as pris un coryphène ! Ce n'est pas un médicament contre les douleurs "
+}

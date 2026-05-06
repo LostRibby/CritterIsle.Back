@@ -1,0 +1,10 @@
+{
+  "_id": "32",
+  "name": "Gobie d'eau douce",
+   "image": "NH-Icon-freshwatergoby.png", 
+   "price": "400", 
+   "location": "etang", 
+   "season": ["hiver", "printemps", "été", "automne"],
+   "description": "Sous ses dehors modestes, le gobie d'eau douce cache un appétit féroce, voire une gloutonnerie assumée ! Tout ce que sa bouche est capable d'enfourner, le gobie le gobe ! Et sa bouche n'est pas modeste, elle ! Conclusion : Si un gobie d'eau douce barbote dans les environs, va faire trempette ailleurs. Conseil d'ami !",
+   "jdm": "Tu as pris un gobie d’eau douce ! Go, go ! Le gobie !"
+}

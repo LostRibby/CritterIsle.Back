@@ -1,0 +1,10 @@
+{
+  "_id": "11",
+  "name": "Carangue grosse tête",
+   "image": "fishes.images/NH-Icon-gianttrevally.png", 
+   "price": "4500", 
+   "location": "ponton", 
+   "season": ["été"],
+   "description": "La carangue grosse tête n'a pas que la caboche d'énorme : cette géante peut atteindre 1,8 m pour 80 kg ! Cette carrure respectable en fait une prise recherchée par les pêcheurs depuis des temps immémoriaux. C'est aussi une chasseuse futée, capable d'exploiter la présence de prédateurs pour distraire une proie ! Certains témoignages affirment même qu'il lui arrive d'attaquer... gloups, d'innocents oiseaux !",
+   "jdm": "Tu as pris une carangue grosse tête ! Regarde madame je-sais-tout !"
+}

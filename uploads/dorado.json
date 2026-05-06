@@ -1,0 +1,10 @@
+{
+  "_id": "26",
+  "name": "Dorado",
+   "image": "NH-Icon-dorado.png", 
+   "price": "15000", 
+   "location": "rivière", 
+   "season": ["été", "automne"],
+   "description": "Ouh ! Quelle brillance ! Quel éclat ! « Dorado » signifie « doré » en espagnol, et ça lui va à merveille ! Cette créature se négocie d'ailleurs à un bon prix. Mes compliments pour tes talents de pêcheur/euse émérite ! C'est aussi un poisson de bonne taille. On se demande ce qu'il ingère pour afficher une telle carrure ! Quoi que ce soit, ça me donne la chair de poule. Qu'on retire ce glouton de ma vue au plus vite, ouh !",
+   "jdm": "Tu as pris un dorado ! En grandissant, il deviendra un doradulte !"
+}

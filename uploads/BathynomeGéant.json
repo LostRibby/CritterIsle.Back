@@ -1,0 +1,10 @@
+{
+  "_id": "5",
+  "name": "Bathynome géant",
+   "image": "96px-Giant_Isopod_NH_Icon.png", 
+   "price": "12000", 
+   "speed": "très rapide", 
+   "season": ["été", "automne"],
+   "description": "Pouvant atteindre 50 cm, le bathynome géant est le plus imposant des cousins du cloporte. (50 centimètres ? 50 fois plus dégoûtant, oui !) Ce qui est d'autant plus fâcheux pour qui trouve le cloporte en question plus répugnant que « mimi ». Quoi qu'il en soit, le bathynome géant peut nager étonnamment vite et est doté d'un appétit solide. En fait, rien ne le ravit davantage qu'un bon dîner autour du cadavre d'un animal étendu sur le fond marin. Comportement qui lui vaut d'ailleurs le surnom peu flatteur d'« aspirateur des abysses ». (Des créatures géantes ressemblant à des insectes ? Qu'ai-je fait à la science pour qu'elle me soumette de pareilles horreurs ?)",
+   "jdm": "WAOUH ! Tu as remonté un bathynome géant ! On dirait un cloporte qui aurait muté !"
+}

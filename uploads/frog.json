@@ -1,0 +1,10 @@
+{
+  "_id": "34",
+  "name": "Grenouille",
+   "image": "NH-Icon-frog.png", 
+   "price": "120", 
+   "location": "etang", 
+   "season": ["été", "automne"],
+   "description": "Comme chacun sait, les grenouilles communiquent entre elles via de nombreux cris. Par exemple... Crooâ ! (Mon prince a fini par venir !) Crooâa ? (L'étang a-t-il un fond ?) Croâ, croâ. (Comme ci, comme ça.) Sans oublier le fameux proverbe batracien Crâoo crââ ! (Tant qu'il y a de la pluie, il y a de l'espoir !) Je commence à peine à apprendre et la prononciation me pose bien des difficultés... mais j'y arriverai !",
+   "jdm": "Tu as pris une grenouille ! J'y croâ pas !"
+}

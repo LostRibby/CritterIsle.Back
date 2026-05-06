@@ -1,0 +1,10 @@
+{
+  "_id": "11",
+  "name": "Corbeille de Vénus",
+   "image": "96px-Venus'_Flower_Basket", 
+   "price": "5000", 
+   "speed": "rapide", 
+   "season": ["automne", "hiver"],
+   "description": "La corbeille de Vénus semble tout droit venue d’une autre planète. Mais en fait il s’agit d’une éponge de mer remarquable vivant au plus profond des océans. Son corps composé de silice évoque une sculpture ou un vase qu’on aurait tressé avec du verre. C’est un chef-d'œuvre signé par la plus grande artiste de l’univers,  j’ai nommé mère nature !",
+   "jdm": "Tu as remonté une corbeille de Vénus ! Elle a dû l'égarer pendant sa promenade."
+}

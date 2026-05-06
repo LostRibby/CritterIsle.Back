@@ -1,0 +1,10 @@
+{
+  "_id": "12",
+  "name": "Crabe-araignée géant",
+   "image": "96px-Spider_Crab_NH_Icon.png", 
+   "price": "12000", 
+   "speed": "très rapide", 
+   "season": ["printemps"],
+   "description": "Ouh, ouh ! Puisse l'hyper-ventilation m'être épargnée tandis que j'exalte les qualités du crabe-araignée géant. Je ne peux pourtant ignorer que le plus grand crabe du monde a l'air d'une gigantesque araignée ! Mais il est de mon devoir de mettre l'arachnophobie de côté et de faire l'éloge de cette splendide créature ! Ce noble animal qui, malgré ses trois mètres d'envergure et ses 20 kilos, fuit toute forme de violence ! Cette douce force de la nature qui vit cachée pour vivre heureuse, parmi les algues et les éponges ! Ah, si seulement je pouvais oublier son côté « araignée », je serais son plus fervent admirateur, ouh, ouh !",
+   "jdm": "Tu as remonté un crabe-araignée géant ! Regarde ses adorables pattes démesurées !"
+}

@@ -1,0 +1,10 @@
+{
+  "_id": "15",
+  "name": "Crabe Gazami",
+   "image": "96px-Gazami_Crab_NH_Icon.png", 
+   "price": "2200", 
+   "speed": "moyen", 
+   "season": ["été", "automne"],
+   "description": "Ah, le crabe gazami, que d'aucuns surnomment affectueusement le crabe bleu du Japon... Ce sobriquet lui vient de la teinte céruléenne dont brillent parfois sa carapace et ses pattes. Parlons-en, de ses pattes ! Celles à l'arrière, évoquant des pagaies, lui permettent de nager prestement... Pas assez prestement pour échapper à tes mains expertes, ceci dit !",
+   "jdm": "Tu as remonté un crabe gazami ! Ce gars-là est ton ami !"
+}

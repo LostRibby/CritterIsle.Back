@@ -1,0 +1,10 @@
+{
+  "_id": "35",
+  "name": "Pieuvre Parapluie",
+   "image": "96px-Umbrella_Octopus_NH_Icon.png", 
+   "price": "6000", 
+   "speed": "rapide", 
+   "season": ["hiver", "printemps", "automne"],
+   "description": "Existe-t-il créature plus adorable que la pieuvre parapluie ? La réponse est objectivement « non » ! Ces pieuvres des fonds marins sont du genre riquiqui et flottillent en agitant leurs oreilles tel des ailerons. Quant à son nom aux consonances délicatement poétiques, elle le doit à la toile tendue entre ses tentacules. Vraiment, on jurerait voir un mignon petit parapluie quand elle étend ses longs bras, ouh ouh ! Quel paradoxe frappant, au passage ! La dernière chose que souhaite une pieuvre, c'est bien d'être au sec !",
+   "jdm": "Tu as attrapé une pieuvre parapluie ! Trop tard, tu es déjà complètement trempé.e !"
+}

@@ -1,0 +1,10 @@
+{
+  "_id": "70",
+  "name": "Saumon roi",
+   "image": "NH-Icon-kingSalmon.png", 
+   "price": "1800", 
+   "location": "", 
+   "season": ["été", "automne"],
+   "description": "Le saumon roi n'usurpe pas son titre. Ce majestueux monarque des flots peut peser jusqu'à 60 kilos ! Même le plus robuste et le plus puissant des filets ne peut guère en remonter que quelques-uns à la fois. Je suis encore ébahi que ce mastodonte ne t'ait pas fait faire le grand plongeon quand tu l'as pêché ",
+   "jdm": "Waouh ! Bravo ! Tu as pris un saumon roi ! Échec et mat !"
+}

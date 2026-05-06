@@ -1,0 +1,10 @@
+{
+  "_id": "69",
+  "name": "Saumon masou",
+   "image": "NH-Icon-cherrysalmon.png", 
+   "price": "1000", 
+   "location": "cascade", 
+   "season": ["printemps","été", "automne"],
+   "description": "Apparenté au saumon comme son nom l'indique, le saumon masou présente un motif à pois distinctif. Ces pois disparaissent à mesure qu'il grandit, mais ce phénomène ne se produit QUE dans certaines régions. Pauvres scientifiques à qui incombe la lourde tâche de comprendre les coquetteries du saumon masou !",
+   "jdm": "Tu as pris un saumon masou ! Je crois avoir vu un saumon quelque part, masou ?"
+}

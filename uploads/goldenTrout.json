@@ -1,0 +1,10 @@
+{
+  "_id": "78",
+  "name": "Truite dorée",
+   "image": "NH-Icon-goldentrout.png", 
+   "price": "15000", 
+   "location": "cascades", 
+   "season": ["printemps", "automne"],
+   "description": "La truite dorée est un joli poisson chamarré ne daignant barboter que dans les eaux les plus claires. Ainsi, on ne la trouve guère que dans les cours montagneux, à l'écart de ses congénères plus plébéiens. Entre nous, ce représentant de la gent à écailles boursouflé d'orgueil ne m'inspire que peu de sympathie.",
+   "jdm": "Tu as pris une truite dorée ! Sa couleur ne laisse aucun doute."
+}

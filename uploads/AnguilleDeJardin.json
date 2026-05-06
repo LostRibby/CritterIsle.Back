@@ -1,0 +1,10 @@
+{
+  "_id": "3",
+  "name": "Anguille de jardin",
+   "image": "96px-Spotted_Garden_Eel_NH_Icon.png", 
+   "price": "1100", 
+   "speed": "lent", 
+   "season": ["printemps", "été", "automne"],
+   "description": "L'anguille de jardin est un petit poisson en forme d'anguille qui aime à s'ensabler dans les fonds marins. Ces petites malignes sont connues pour faire jaillir leur tête du sable et grignoter le plancton qui passe ! Ce comportement évoque à certains l'éclosion de fleurs dans un jardin... d'où le nom de cette créature. Moi, elle m'évoque plutôt des coyotes jaillissant de derrière un cactus dans un désert de feu... Remarque, anguille du désert, ça ne sonne pas si mal non plus, ouh ouh.",
+   "jdm": "Tu as remonté une anguille de jardin ! Tu imagines avoir ça parmi tes fleurs ?!"
+}

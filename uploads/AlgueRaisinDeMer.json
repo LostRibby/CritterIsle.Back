@@ -1,0 +1,10 @@
+{
+  "_id": "1",
+  "name": "Algue raisin de mer",
+   "image": "96px-Sea_Grapes_NH_Icon.png", 
+   "price": "900", 
+   "speed": "immobile", 
+   "season": ["été"],
+   "description": "L'algue raisin de mer est une algue marine ressemblant fort au fruit juteux dont elle emprunte le nom. Comme lui, elle est verte, de forme ovale, et prolifère le long d'autres végétaux auxquels elle s'agrippe. Par ailleurs, comme son cousin des vignes, elle est exquise au goût... pour qui aime le salé, naturellement ! Les gourmets amateurs de sa chair délicate se délectent notamment de la façon dont elle éclate sous la dent. A telle enseigne qu'on peut se poser la question : le jus d'algue raisin de mer est-il un breuvage d'avenir ? A mon avis, il rencontrerait sans doute un accueil mi-algue, mi-raisin, ouh ouh.",
+   "jdm": "Tu as remonté une algue raisin de mer ! Et tout ça, sans pépin !"
+}

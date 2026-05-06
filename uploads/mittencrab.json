@@ -1,0 +1,10 @@
+{
+  "_id": "22",
+  "name": "Crabe chinois",
+   "image": "NH-Icon-mittencrab.png", 
+   "price": "2000", 
+   "location": "rivière", 
+   "season": ["hiver", "automne"],
+   "description": "Le crabe chinois me fait toujours fondre de tendresse ! Admire ces mignonnes pinces duveteuses ! Mais derrière cet adorable crustacé se dissimule un fier baroudeur qui n'a pas froid à la carapace ! Né dans les eaux saumâtres, il grandit dans l'eau douce... et remet le cap sur l'océan pour proliférer ! Oh ! Je me liquéfie d'admiration en imaginant tous ces bébés crabes sous le regard ému de leurs parents !",
+   "jdm": "Tu as pris un crabe chinois ! C'est le plus asiatique des crustacés !"
+}

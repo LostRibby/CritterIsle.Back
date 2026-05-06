@@ -1,0 +1,10 @@
+{
+  "_id": "27",
+  "name": "Limule",
+  "image": "96px-Horseshoe_Crab_NH_Icon_png", 
+   "price": "2500", 
+   "speed": "moyen", 
+   "season": ["été"],
+   "description": "Certains observateurs étourdis voient dans la limule une sorte de crabe... Calembredaines ! Ce soi-disant crabe est un arthropode, donc un cousin de l'araignée et du scorpion ! Sa longue queue n'évoque-t-elle d'ailleurs pas l'aiguillon de son cruel et mortel parent ? (Certes, la queue de la limule est inoffensive, mais son aspect suffit à peupler mes cauchemars pour quelques lustres...) À part ça, il s'agit d'un « fossile vivant », qui vivait déjà dans l'océan avant l'apparition des dinosaures. (Pour ce qui me concerne, je ne suis pas sûr de l'époque exacte où elle est apparue, mais elle peut bien y retourner !) Depuis, les limules passent le plus clair de leur temps dans les vasières en quête d'un morceau à grignoter. Mais dès la saison des amours, elles rampent par centaines sur la plage, formant des groupes de nidification ! DES CENTAINES DE LIMULES ! (Je crois que je n'en ai pas fini, avec les cauchemars...)",
+   "jdm": "Tu as remonté une limule ! C'est pas ça qui te saute à la figure dans les films d'horreur ?"
+}

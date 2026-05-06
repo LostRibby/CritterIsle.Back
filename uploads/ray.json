@@ -1,0 +1,10 @@
+{
+  "_id": "62",
+  "name": "Raie",
+   "image": "NH-Icon-ray.png", 
+   "price": "3000", 
+   "location": "mer", 
+   "season": ["été", "automne"],
+   "description": "La raie est un poisson plus ou moins apparenté au requin et présentant un corps plat et une longue queue. Vue d'en dessous, la bouche sur son estomac semble sourire, ce qui est objectivement adorable. Mais contrairement à d'autres bêtes adorables, la raie est venimeuse ! Ici, sourire rime avec déguerpir !",
+   "jdm": "Tu as pris une raie ! La raie était au bout de la ligne "
+}

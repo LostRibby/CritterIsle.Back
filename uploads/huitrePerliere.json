@@ -1,0 +1,10 @@
+{
+  "_id": "24",
+  "name": "Huitre perlière",
+   "image": "96px-Pearl_Oyster_NH_Icon.png", 
+   "price": "2800", 
+   "speed": "moyen", 
+   "season": ["hiver", "printemps", "été", "automne"],
+   "description": "La célèbre huître perlière peut vivre 40 ans et atteindre 30 cm. Non, ce ne sont pas des bobards, ouh ouh ! Certes, ce mollusque saumâtre est plus connu pour les précieuses perles qu'il renferme jalousement... Alors, parlons-en ! Elles se forment par l'immiscion d'un agent irritant indélicat à l'intérieur de l'huître. L'importun est patiemment couvert de couches successives de nacre, dont est constituée la carapace. Des années sont nécessaires à mener ce processus, l'agent irritant devenant à terme inoffensif. Le monde serait si merveilleux si tout un chacun pouvait transformer ce qui l'indispose en un bijou de beauté !",
+   "jdm": "Tu as remonté une huître perlière ! C'est mieux qu'une huître pas d'hier !"
+}

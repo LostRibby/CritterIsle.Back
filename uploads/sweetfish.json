@@ -1,0 +1,10 @@
+{
+  "_id": "4",
+  "name": "Ayu",
+   "image": "NH-Icon-sweetfish.png", 
+   "price": "900", 
+   "location": "rivière", 
+   "season": ["été"],
+   "description": "L'ayu, ou l'émissaire nageur des beaux jours ! Dès que la température se radoucit, il débarque en groupe ! Il naît dans une rivière, puis nage jusqu'à l'océan. Enfin, une fois adulte, il retourne au bercail. Mais le moment de ce retour dépend de la température de l'eau. Si elle est trop basse, le voyage est reporté. D'aucuns prétendent que c'est l'ayu qui déclenche l'été... Et l'orbite de la Terre, c'est du nougat ?",
+   "jdm": "Tu as pris un ayu ! Une pensée pour mes parents et mes ayus !"
+}

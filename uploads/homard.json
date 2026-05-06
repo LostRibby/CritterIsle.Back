@@ -1,0 +1,10 @@
+{
+  "_id": "22",
+  "name": "Homard",
+   "image": "96px-Lobster_NH_Icon.png", 
+   "price": "4500", 
+   "speed": "très rapide", 
+   "season": ["décembre", "printemps"],
+   "description": "Le homard est avant tout célèbre pour ses deux grosses pinces. Mais savais-tu qu'en fait, il en avait six ? Certes, ses quatre autres pinces sont plus discrètes que celles destinées à réduire en charpie tout ce qui traîne. Parce que je te signale que ce caïd à carapace peut exercer une pression de 45 kilos en un seul pincement ! La prochaine fois que l'un d'entre eux veut te serrer la main, n'oublie pas ton gant en acier renforcé !",
+   "jdm": "Tu as remonté un homard ! On se sert la pince ?"
+}

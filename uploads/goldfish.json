@@ -1,0 +1,10 @@
+{
+  "_id": "54",
+  "name": "Poisson rouge",
+   "image": "NH-Icon-greatwhiteshark.png", 
+   "price": "1300", 
+   "location": "etang", 
+   "season": ["hiver", "printemps","été", "automne"],
+   "description": "Les poissons rouges sont des petites bêtes aussi agiles que choupinous... Mais quelle taille atteignent-ils ? Eh bien, accroche-toi... jusqu'à 30 centimètres de long ! Il s'agit là d'une approximation, la circonférence de leur aquarium tendant à inhiber leur croissance... Mais en barbotant dans celui du musée, il peut grandir tout à sa guise... Jusqu'à quel point ?",
+   "jdm": "Tu as pris un poisson rouge ! Pourtant, les petits pois sont verts !"
+}

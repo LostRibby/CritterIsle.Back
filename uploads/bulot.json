@@ -1,0 +1,10 @@
+{
+  "_id": "7",
+  "name": "Bulot",
+   "image": "96px-Whelk_NH_Icon.png", 
+   "price": "1000", 
+   "speed": "", 
+   "season": ["hiver","printemps", "été", "automne"],
+   "description": "Le bulot est un gastéropode migrant des bas-fonds aux hauts-fonds en fonction du temps qu'il fait. Carnivore avide, il se nourrit de vers, de crustacés et de mollusques. Ce petit malin est même capable de se servir de sa carapace pour forcer l'ouverture de celle de sa proie ! À l'aide d'une espèce de langue hérissée de milliers de dents, il lèche alors la paroi interne de la carapace. En un mot évite de te pencher sur les mœurs de cette créature avant de passer à table.",
+   "jdm": "Tu as remonté un bulot ! C'est pas une petite souris toute bouillée !"
+}

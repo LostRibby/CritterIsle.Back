@@ -1,0 +1,10 @@
+{
+  "_id": "72",
+  "name": "Têtard",
+   "image": "NH-Icon-tadpole.png", 
+   "price": "100", 
+   "location": "etang", 
+   "season": ["printemps", "été"],
+   "description": "Tu n'ignores certainement pas qu'en grandissant, les têtards deviennent des grenouilles. Ces adorables bébés frétillant leur petite queue forment déjà un ravissant tableau... Mais ce n'est rien à côté de la grâce incomparable qu'ils acquièrent quand des pattes leur poussent ! Et que dire du fascinant spectacle de l'évolution en marche, auquel cette créature nous convie ainsi ? Le simple fait d'y songer me fait monter aux yeux des larmes d'admiration !",
+   "jdm": "Tu as pris un têtard ! C'est pas trop tôt !"
+}

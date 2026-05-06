@@ -1,0 +1,10 @@
+{
+  "_id": "18",
+  "name": "Clione",
+   "image": "NH-Icon-seaButterfly.png", 
+   "price": "1000", 
+   "location": "mer", 
+   "season": ["hiver"],
+   "description": "Tant de mystère et d'harmonie à la fois ! Sais-tu que le nom scientifique de la clione est clione limacina ? Et en effet, tout comme la limace, elle fait partie de l'ordre des gastéropodes ! Pourtant sa façon de voler à travers les flots m'évoque des créatures plus élégantes... des créatures à plumes. D'ailleurs, il suffit de voir la grâce de son vol pour la soupçonner d'être de la famille des hiboux, ouh ouh !",
+   "jdm": "Tu as pris une clione ! C'est la femelle du clion !"
+}

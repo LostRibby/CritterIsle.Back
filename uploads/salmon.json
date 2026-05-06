@@ -1,0 +1,10 @@
+{
+  "_id": "68",
+  "name": "Saumon",
+   "image": "NH-Icon-salmon.png", 
+   "price": "700", 
+   "location": "rivières", 
+   "season": ["été"],
+   "description": "Ah, le saumon... Sais-tu que sa couleur vient de son alimentation ? Non ? Eh bien, je te l'apprends ! Plus ce petit gourmand avale de crustacés, comme des crevettes, plus sa teinte rose s'assombrit. Et si on le gavait de carottes... Tu crois qu'il virerait à l'orange ?",
+   "jdm": "Tu as pris un saumon ! C'est mieux qu'un sermon !"
+}

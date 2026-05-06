@@ -1,0 +1,10 @@
+{
+  "_id": "61",
+  "name": "Poisson-scorpion",
+   "image": "NH-Icon-zebraturkeyfish.png", 
+   "price": "1500", 
+   "location": "mer", 
+   "season": ["printemps","été", "automne"],
+   "description": "Ah, la beauté et la diversité des fonds marins ne cessent de m'émerveiller ! Vois le poisson-scorpion, par exemple. Il est aussi fascinant à observer que... mortel. Ces piquants si distinctifs sont en effet remplis à ras bord de poison... On notera que le poisson-scorpion lui-même y est immunisé... Donc même s'il est solitaire, rien ne l'empêche de serrer la nageoire d'un congénère pour le saluer !",
+   "jdm": "Tu as pris un poisson-scorpion ! Il n'y a pas que sa queue qui pique "
+}

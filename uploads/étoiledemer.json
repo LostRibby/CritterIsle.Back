@@ -1,0 +1,10 @@
+{
+  "_id": "20",
+  "name": "étoile de mer",
+   "image": "96px-Sea_Star_NH_Icon.png", 
+   "price": "500", 
+   "speed": "très lent", 
+   "season": ["hiver", "printemps", "été", "hiver"],
+   "description": "En l'étudiant en diagonale, on peut croire que l'étoile de mer a cinq pieds. Mais en fait, ce sont des bras. Si on en dénombre en général cinq, il existe des espèces pourvues de 20, voire de 40 de ces appendices ! Mais ce n'est là qu'un des nombreux et fascinants aspects de cette étonnante créature ! Figure-toi que sur chacun de ses bras pullulent des dizaines de pieds minuscules. Des PIEDS, ouh ouh ! Ces pieds font office de ventouse lui permettant de se déplacer et de... s'emparer de son quatre-heures. Et si notre étoile perd un bras, qu'à cela ne tienne ! Un autre poussera à sa place. Plus impressionnant encore : il arrive que d'un bras très amoché repousse un corps entier d'étoile de mer !",
+   "jdm": "Tu as remonté une étoile de mer ! Elle a dû tomber du ciel !"
+}

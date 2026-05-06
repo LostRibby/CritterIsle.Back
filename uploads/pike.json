@@ -1,0 +1,10 @@
+{
+  "_id": "9",
+  "name": "Brochet",
+   "image": "NH-Icon-pike.png", 
+   "price": "1800", 
+   "location": "rivière", 
+   "season": ["hiver", "automne"],
+   "description": "Le brochet me fait toujours penser au saumon, bien qu'il atteigne des tailles notablement supérieures. Et je pèse mes mots ! Ces géants des eaux peuvent atteindre 1,3 mètre ! Tu imagines les mastodontes ? Bien sûr, cette brute est carnivore, et n'hésite pas à avaler d'autres poissons, ni même du gibier d'eau ! Si je devais un jour en croiser lors d'une petite trempette, j'avoue que je ne serais pas fier...",
+   "jdm": "Tu as pris un brochet ! Il se cachait derrière un rocher ?"
+}

@@ -1,0 +1,10 @@
+{
+  "_id": "2",
+  "name": "Anémone de mer",
+   "image": "96px-Sea_Anemone_NH_Icon.png", 
+   "price": "100", 
+   "speed": "immobile", 
+   "season": ["hiver", "printemps", "été", "automne"],
+   "description": "Méduse elle-même resterait pétrifiée en découvrant les terribles secrets que recèle l'anémone de mer. Cet adorable prédateur n'aime rien tant que de laisser ses tresses onduler gracieusement dans l'onde. Mais ne t'y trompe pas ! En fait de nattes, il s'agit de tentacules mortels cernant une bouche avide ! Au plus infime contact, ces cruels appendices harponnent leur victime, lui inoculant une neurotoxine fatale. L'anémone de mer attire alors sa proie vers sa gueule béante et l'engloutit sans plus de cérémonie. Que ceci nous serve de leçon. Il ne faut jamais devenir... l'ennemi d'une anémone, oh non mon ami.e !",
+   "jdm": "Tu as remonté une anémone de mer ! La meilleure amie du poisson-clown !"
+}

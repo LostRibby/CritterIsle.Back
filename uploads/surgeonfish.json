@@ -1,0 +1,11 @@
+
+{
+  "_id": "51",
+  "name": "Poisson chirurgien",
+   "image": "NH-Icon-sturgeon.png", 
+   "price": "1000", 
+   "location": "mer", 
+   "season": ["printemps", "été", "automne"],
+   "description": "Ouh ! Attention ! Nous avons affaire à un gaillard dangereux, malgré ses airs de ne pas y toucher ! La teinte jaune et bleue du poisson chirurgien, à l'éclat saturé, n'a en effet aucun mal à charmer l’œil... Mais pas de quoi en faire l'Apollon des fonds marins, la compétition étant rude au monde des coraux ! En tout cas, manipuler ces beautés exige du doigté... Leur épine caudale est tranchante comme une lame !",
+   "jdm": "Tu as pris un poisson chirurgien ! C'était un combat aux forceps "
+}

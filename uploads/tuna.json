@@ -1,0 +1,10 @@
+{
+  "_id": "74",
+  "name": "Thon",
+   "image": "NH-Icon-tuna.png", 
+   "price": "7000", 
+   "location": "mer", 
+   "season": ["hiver"],
+   "description": "Le thon est un énorme poisson marin pouvant atteindre 3 mètres ! En plus de sa taille considérable, il est remarquable par sa capacité à nager tout en dormant ! Il faut dire que s'il arrête de nager, il ne peut plus respirer et passe sans tarder de vie à trépas... Mais le sommeil est censé être réparateur, ouh ! Si j'étais un thon, je hurlerais au scandale !",
+   "jdm": "Tu as pris un thon ! Si ton thon tond ton tonton..."
+}

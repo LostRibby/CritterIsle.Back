@@ -1,0 +1,10 @@
+{
+  "_id": "17",
+  "name": "Chinchard",
+   "image": "NH-Icon-horsemackerel.png", 
+   "price": "150", 
+   "location": "mer", 
+   "season": ["hiver", "printemps",  "été", "automne"],
+   "description": "Selon la légende, le chinchard serait si fort qu'il pourrait... transporter d'autres poissons sur son dos. Quelles fadaises ! Et pourquoi pas lui ajouter une selle pour le confort des usagers aquatiques ? Est-ce trop demander que d'avoir des légendes bénéficiant d'un tant soit peu de crédibilité scientifique ?!",
+   "jdm": "Tu as pris un chinchard ! Plus cabochard que pétochard"
+}

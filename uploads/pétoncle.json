@@ -1,0 +1,10 @@
+{
+  "_id": "34",
+  "name": "Pétoncle",
+   "image": "96px-Scallop_NH_Icon.png", 
+   "price": "1200", 
+   "speed": "lent", 
+   "season": ["hiver", "printemps", "été", "automne"],
+   "description": "Ah, le pétoncle ! La preuve vivante qu'on peut être un bivalve et ne pas pouvoir tenir en place. Alors que la plupart des membres de cette famille ne se déplacent jamais, M. le Pétoncle a la bougeotte. Ainsi, si une étoile de mer en quête de pitance l'avise d'un air gourmand, notre pétoncle se carapate aussitôt ! Il se propulse en percutant les deux parties de sa carapace ! Clap, clap, clap, le pétoncle a changé de cap ! Mais comment un pétoncle sait-il qu'un prédateur le lorgne de trop près ? Grâce à ses 200 yeux, pardi ! La question est plutôt : que ne voit PAS un pétoncle avec ces yeux partout ? Le fond de mon âme... et encore !",
+   "jdm": "Tu as remonté un pétoncle ! C'est le mari de la pétante !"
+}

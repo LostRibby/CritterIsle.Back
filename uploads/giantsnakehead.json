@@ -1,0 +1,10 @@
+{
+  "_id": "73",
+  "name": "Tête-de-serpent",
+   "image": "NH-Icon-giantsnakehead.png", 
+   "price": "5500", 
+   "location": "etang", 
+   "season": ["été"],
+   "description": "Le tête-de-serpent vaut le coup d'œil, ne serait-ce que pour constater qu'il porte bien son nom. Il jouit également d'une remarquable capacité d'adaptation, pouvant se nicher dans la boue, et y respirer. En fait, il s'y prélasse tout l'hiver, n'étant guère friand des courants glacés qui traversent alors l'onde. Enfin, il n'hésite pas à avaler tout ce qui passe à portée de sa bouche insatiable. Pourtant, malgré son aspect terrifiant et son appétit vorace, il y a quelque chose en lui qui me séduit...",
+   "jdm": "Tu as pris un tête-de-serpent ! Et son corps, alors ?!"
+}

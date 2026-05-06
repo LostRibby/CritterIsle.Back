@@ -1,0 +1,10 @@
+{
+  "_id": "23",
+  "name": "Huitre",
+   "image": "96px-Oyster_NH_Icon.png", 
+   "price": "1100", 
+   "speed": "lente", 
+   "season": ["hiver","été"],
+   "description": "Les huîtres sont des mollusques merveilleux qui figurent parmi les créatures marines les plus sociables. En effet, ces bivalves forment des attroupements appelés « parcs à huîtres » sur les rochers. Ces structures d'aspect corallien fournissent de la nourriture et un abri à de nombreuses créatures. Moues, bernacles et anémones de mer y posent régulièrement leurs valises sous-marines, ouh ouh. De même, les petits poissons et autres crabes s'y cachent des prédateurs et y élèvent leurs petits. Bref, ces « parcs à huîtres » n'ont rien du petit parc ombragé où l'on aime à se nicher à l'abri du tumulte !",
+   "jdm": "Tu as remonté une huître ! Plus quatre, ça fait douzre !"
+}

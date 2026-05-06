@@ -1,0 +1,10 @@
+{
+  "_id": "19",
+  "name": "Coelacanthe",
+   "image": "NH-Icon-coelacanth.png", 
+   "price": "15000", 
+   "location": "mer(pluie)", 
+   "season": ["hiver", "printemps", "été", "automne"],
+   "description": "Le cœlacanthe est une créature arpentant les abysses depuis l'époque des dinosaures. On l'a longtemps cru éteint... et puis on a observé un spécimen vivant... Tu parles d'un choc ! D'où la question qui me taraude, Faut-il classer cette prise parmi les poissons ou les fossiles ?",
+   "jdm": "Oh oh ! Tu as pris un cœlacanthe ! Tu sais que ça se prononce « sé-la-kante »"
+}

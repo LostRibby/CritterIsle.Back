@@ -1,0 +1,10 @@
+{
+  "_id": "25",
+  "name": "Langouste",
+   "image": "96px-Spiny_Lobster_NH_Icon.png", 
+   "price": "5000", 
+   "speed": "rapide", 
+   "season": ["hiver", "automne"],
+   "description": "Ce sont ses longues antennes qui permettent de distinguer la langouste des autres homards. Et quand je dis 'longues', je pèse mes mots ! Elles peuvent atteindre deux fois la taille du reste du corps ! Bien entendu, ce crustacé ingénieux ne manque pas de s'en servir pour se protéger des prédateurs. Ainsi, dès qu'elle flaire un danger, la langouste frotte ses antennes contre son exosquelette... Face à l'effrayant tintamarre qui en résulte, les importuns se sauvent sans demander leur reste ! Mais je les comprends. Si on s'avise de faire crisser ses ongles sur un tableau, je m'enfuis à tire-d'aile !",
+   "jdm": "Tu as remonté une langouste ! Tu as vu ses antennes ?!"
+}

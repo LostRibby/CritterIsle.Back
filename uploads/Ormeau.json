@@ -1,0 +1,10 @@
+{
+  "_id": "31",
+  "name": "Ormeau",
+   "image": "96px-Abalone_NH_Icon.png", 
+   "price": "2000", 
+   "speed": "lent", 
+   "season": ["hiver", "été", "automne"],
+   "description": " Ah, l'ormeau ! Voilà un petit farceur qui cache bien son jeu, ouh ouh ! En voyant sa carapace vaguement brunâtre, on aura vite fait de n'y voir qu'un vulgaire gastéropode. Grave erreur ! Il suffit de jeter un œil à l'intérieur pour découvrir un somptueux spectacle ! En effet, la paroi interne de sa carapace, constituée de nacre, brille de mille feux étincelants ! Que ceci soit une leçon pour nous tous ! Ne jamais juger une créature marine sur son aspect extérieur ! Il convient de la juger sur son aspect intérieur, qu'on se le dise !",
+   "jdm": "Tu as remonté un ormeau ! C'est mieux qu'un platane bas !"
+}

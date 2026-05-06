@@ -1,0 +1,10 @@
+{
+  "_id": "10",
+  "name": "Calmar",
+   "image": "NH-Icon-squid.png", 
+   "price": "500", 
+   "location": "mer", 
+   "season": ["hiver", "printemps", "été"],
+   "description": "D'abord, il convient de rappeler que le calmar appartient à la famille des mollusques, comme la pieuvre... Contrairement à l'escargot ou à la palourde, autres représentants de cette famille, il n'a pas de carapace. Le seul reliquat qu'il conserve de sa carapace disparue est une étroite bande dure traversant son corps. Ceci dit, une carapace à l'intérieur du corps peut sembler bien inutile... Il faudrait lui expliquer le principe !",
+   "jdm": "Tu as pris un calmar ! A plus tard, calmars ! / Tu as pris un calmar ! Bloups, bloups "
+}

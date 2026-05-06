@@ -1,0 +1,10 @@
+{
+  "_id": "26",
+  "name": "Limace de mer",
+   "image": "96px-Sea_Slug_NH_Icon.png", 
+   "price": "600", 
+   "speed": "très lent", 
+   "season": ["hiver", "printemps", "été", "automne"],
+   "description": "Essaie de te représenter un limace classique, mais vêtue de fanfreluches colorées, à rayures et à pois. Voilà la limace de mer, gastéropode prêt à défiler sur le tapis rouge ou du moins à jouer les faire-valoir de luxe. Mais ne va pas te méprendre sur ses intentions. Si cette créature s'attife ainsi, ce n'est pas par coquetterie ! Ses couleurs sont là pour avertir les prédateurs imprudents de sont goût infect et même toxique. La nature nous enseigne ainsi que si la colère n'est pas une bonne conseillère, la couleur, elle, peut l'être.",
+   "jdm": "Tu as remonté une limace de mer ! Elle est plus jolie que son homologue terrestre !"
+}

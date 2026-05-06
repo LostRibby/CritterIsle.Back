@@ -1,0 +1,10 @@
+{
+  "_id": "67",
+  "name": "Requin-baleine",
+   "image": "NH-Icon-whaleshark.png", 
+   "price": "13000", 
+   "location": "mer", 
+   "season": ["été"],
+   "description": "Le puissant requin-baleine est le plus grand poisson du monde, pouvant afficher 18 m à la toise ! Contrairement à la plupart des requins, il n'est pas carnassier pour un sou et se contente de plancton. Sa lente croissance n'est que le début d'une longue et paisible vie, bercée par les courants chauds. Bref, si tu cherches un nouvel ami, le requin-baleine est tout indiqué. Sauf si tu ne sais pas nager, ça va de soi.",
+   "jdm": "Waouh ! Tu as pris un requin-baleine ! Ça, c'est un poisson et c'est assez !"
+}

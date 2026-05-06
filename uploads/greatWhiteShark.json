@@ -1,0 +1,10 @@
+{
+  "_id": "33",
+  "name": "Grand requin blanc",
+   "image": "NH-Icon-greatwhiteshark.png", 
+   "price": "15000", 
+   "location": "mer", 
+   "season": ["été", "automne"],
+   "description": "Les grands requins blancs sont bien évidemment connus pour leur morsure. Ce sont les champions ! Ils jouent tellement de la mâchoire qu'ils perdent souvent des dents... Lesquelles repoussent aussitôt. À peine en une journée ! Imagine le pactole que doit leur rapporter la petite souris !",
+   "jdm": "u as pris un grand requin blanc ! Ce poisson a les ailes rondes.."
+}

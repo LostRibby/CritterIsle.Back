@@ -1,0 +1,10 @@
+{
+  "_id": "24",
+  "name": "Cyprin doré",
+   "image": "NH-Icon-goldfish.png", 
+   "price": "1300", 
+   "location": "étang", 
+   "season": ["hiver", "printemps", "été", "automne"],
+   "description": "Outre son éclat étincelant, le cyprin doré brille également par ses yeux globuleux. Mais ne nous y trompons pas : à la naissance, il ressemble à n'importe quel poisson rouge ! Ce n'est qu'en grandissant qu'il développe cette bouille reconnaissable entre mille... Imagine si tu adoptais un poisson rouge... pour découvrir que tu étais l'heureux papa/l'heureuse maman d'un cyprin doré !",
+   "jdm": "Tu as pris un cyprin doré ! Tu as vu ses grands yeux ?"
+}

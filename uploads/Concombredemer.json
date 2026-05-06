@@ -1,0 +1,10 @@
+{
+  "_id": "10",
+  "name": "Concombre de mer",
+   "image": "96px-Sea_Cucumber_NH_Icon.png", 
+   "price": "500", 
+   "speed": "immobile", 
+   "season": ["hiver", "printemps"],
+   "description": "Le concombre de mer, à l'instar de ses cousins l'oursin et l'étoile de mer, n'a ni cœur ni cerveau. De surcroît et contrairement aux espèces sus-citées, il n'a ni piquants ni carapace pour se protéger ! Mais comment une créature si fragile peut-elle survivre dans l'impitoyable océan ? Eh bien, accroche-toi... Lorsqu'il est menacé, le concombre de mer expulse ses entrailles par l'arrière. Voilà l’écœurante vérité ! Le prédateur gourmand se repaît alors de cette répugnante offrande et laisse à notre ami le temps de filer. Quant aux entrailles expulsées, elles repoussent. Et le concombre peut reprendre sans route sans plus d’embarras. Comme quoi, le concombre der mer ne manque pas de tropes ! Ouh ouh, excuse cette plaisanterie indigeste !",
+   "jdm": "Oui ! Tu as remonté un concombre de mer ! Assez de cucurbitacées !"
+}

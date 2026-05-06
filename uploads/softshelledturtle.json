@@ -1,0 +1,10 @@
+{
+  "_id": "77",
+  "name": "Tortue trionyx",
+   "image": "NH-Icon-softshelledturtle.png", 
+   "price": "3750", 
+   "location": "rivière", 
+   "season": ["été"],
+   "description": "La tortue trionyx n'est pas du genre à tergiverser quand il s'agit de mordre quiconque la provoque. En plus de sa mâchoire d'acier, cette adorable bébête peut respirer aussi bien à l'air libre que sous l'eau ! Ainsi que tu as put l'observer, elle est en outre pourvue d'un long cou... lui permettant de respirer et de mordre. C'est d'ailleurs à se demander comment tu as pu me l'apporter sans te faire grignoter les mimines... Bref, c'est une créature effroyable et pourtant, regarde-moi cette bouille... Il y a de quoi s'esclaffer, non ?",
+   "jdm": "Bien joué ! Tu as attrapé une tortue trionyx ! Attention, elle n'est pas commode ! /Il existe aussi des lièvres trionyx ?"
+}

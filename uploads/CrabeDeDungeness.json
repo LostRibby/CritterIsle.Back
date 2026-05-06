@@ -1,0 +1,10 @@
+{
+  "_id": "13",
+  "name": "Crabe de Dungeness",
+   "image": "96px-Dungeness_Crab_NH_Icon.png", 
+   "price": "1900", 
+   "speed": "moyen", 
+   "season": ["hiver", "printemps"],
+   "description": "Le crabe de Dungeness s'enorgueillit à juste titre d'une fort jolie carapace violette en forme de ventilateur. Mais malgré cette particularité propre à attirer l'œil, le bougre sait se faire discret ! En effet, il faut savoir que le crabe de Dungeness est une sorte d'expert à cache-cache. S'il se sent menacé, il utilise sa botte secrète. En un rien de temps, le voilà dissimulé dans le sable ! Certains affirment même l'entendre glousser dans ces cas-là : « Visible, invisible ! Visible, invisible ! »",
+   "jdm": "Oui ! Tu as remonté un crabe de Dungeness ! Tu sais où les crabes de dingue naissent ?"
+}

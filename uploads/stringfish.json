@@ -1,0 +1,10 @@
+{
+  "_id": "25",
+  "name": "Dai yu",
+   "image": "NH-Icon-stringfish.png", 
+   "price": "15000", 
+   "location": "Cascade", 
+   "season": ["hiver", "printemps"],
+   "description": "Le dai yu connaît une croissance lente mais bénéficie d'une espérance de vie assez longue pour un poisson. Il n'est ainsi pas rare qu'il vive jusqu'à 15 ans, ce qui peut lui laisser le temps d'atteindre 2 mètres ! « Rien ne sert de grandir trop vite, il faut grandir longtemps », c'est la devise du dai yu !",
+   "jdm": "Waouh ! Tu as pris un dai yu ! J'en avais pas vu depuis dai yustres !"
+}

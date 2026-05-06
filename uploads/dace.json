@@ -1,0 +1,10 @@
+{
+  "_id": "79",
+  "name": "Vandoise",
+   "image": "NH-Icon-dace.png", 
+   "price": "240", 
+   "location": "rivière", 
+   "season": ["hiver","printemps", "été", "automne"],
+   "description": "Les vandoises sont de brillants petits poissons friands d'eaux ensoleillées aux fonds rocailleux. Ils barbotent ainsi dans ce paradis aquatique... jusqu'à ce que débarque une grosse bête pour les avaler ! Ce pauvre petit est en effet si brillant qu'il constitue une cible de choix pour les prédateurs et les pêcheurs. Il n'y a que dans ce musée qu'on peut faire trempette sans inquiétude ! Ici, les règles sont claires : personne ne croque son voisin !",
+   "jdm": "Tu as pris une vandoise ! Tu crois qu’elle aime les framboises ?"
+}

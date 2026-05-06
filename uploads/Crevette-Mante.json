@@ -1,0 +1,10 @@
+{
+  "_id": "17",
+  "name": "Crevette-mante",
+   "image": "96px-Mantis_Shrimp_NH_Icon.png", 
+   "price": "2500", 
+   "speed": "moyen", 
+   "season": ["hiver", "printemps", "été", "automne"],
+   "description": "Réfléchis-y à deux fois avant de te gausser de la modeste taille de la crevette-mante. Elle est susceptible. Cet animal chatoyant et prompt à la castagne dispose aussi d'une doite inégalée sous l'eau comme sur terre. En plus, ses membres antérieurs évoquent des objets contondants et ses bras sont montés sur ressorts ! Alors ne t'étonne pas s'il distribue les uppercuts à en briser crabes et huîtres sur place. Et si tu as la fantaisie de la saisir à mains nues, tu sauras pourquoi on l'appelle Taille-pouce-en-pointe",
+   "jdm": "Tu as remonté une crevette-mante ! Elle ne manque pas de squille !"
+}

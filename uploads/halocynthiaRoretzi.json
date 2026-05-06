@@ -1,0 +1,10 @@
+{
+  "_id": "21",
+  "name": "Halocynthia roretzi",
+   "image": "96px-Sea_Pineapple_NH_Icon.png", 
+   "price": "1500", 
+   "speed": "lent", 
+   "season":["printemps", "été"],
+   "description": "Il n'est guère aisé de réprimer un sourire lorsqu'on observe de près l'halocynthia roretzi, j'en conviens. Mais malgré son allure d'ananas trop mûr, ce n'est pas un végétal ! Ni un coquillage, ni un gastéropode. Il s'agit d'un tunicier, ouh ouh. Ce nom chic désigne les créatures des hauts-fonds se gavant de plancton. Signalons au passage que dans sa jeunesse, il ressemble à un têtard et nage gracieusement comme tel. Las, son charme juvénile s'évanouit lorsqu'il s'agrippe à un rocher qu'il ne quitte plus. Mais ne jugeons pas ! Cette créature regorge d'eau, vois-tu, et je ne voudrais pas que, vexée, elle ne m'asperge de dépit !",
+   "jdm": "Tu as remonté un halocynthia roretzi ! Pas de chance, elle n'a pas décroché..."
+}

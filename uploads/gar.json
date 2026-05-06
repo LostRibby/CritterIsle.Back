@@ -1,0 +1,10 @@
+{
+  "_id": "31",
+  "name": "Gar",
+   "image": "NH-Icon-gar.png", 
+   "price": "6000", 
+   "location": "etang", 
+   "season":["été", "automne"] ,
+   "description": "Le long museau du gar et sa large bouche lui donnent des airs d'alligator. Certains individus peuvent atteindre trois mètres de long. Ce poisson a peu évolué depuis son apparition il y a cela des millions d'années. Il respire grâce à ses ouïes, mais aussi en plaçant son museau à la surface de l'eau. Ses œufs, très toxiques, ne doivent surtout pas être consommés.",
+   "jdm": "Tu as pris un gar ! Il est venu sans même crier « gar !"
+}

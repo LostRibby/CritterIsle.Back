@@ -1,0 +1,10 @@
+
+{
+  "_id": "20",
+  "name": "Combattant",
+   "price": "2500", 
+   "location": "étang", 
+   "season": ["printemps", "été", "automne"],
+      "description": "Le combattant a de longues nageoires et de belles couleurs. C'est un poisson tropical populaire dans les aquariums décoratifs. Ils sont très territoriaux et se battront jusqu'à l'épuisement complet, les aquariophiles doivent donc les garder avec soin. Une telle beauté et une telle violence se mélangent rarement en dehors des milieux les plus bruyants.",
+   "jdm": "Tu as pris un combattant ! Il cherche la bagarre ?"
+}

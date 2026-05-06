@@ -1,0 +1,10 @@
+{
+  "_id": "44",
+  "name": "Murène ruban bleue",
+   "image": "NH-Icon-ribboneel.png", 
+   "price": "600", 
+   "location": "mer", 
+   "season": ["hiver", "printemps", "été", "automne"],
+   "description": "La murène ruban bleue, apparentée à la murène, s'en distingue cependant par ses couleurs. Elle présente aussi un curieux appendice au bout de son nez, qui gigote au gré de ses mouvements… Ma théorie est qu'il s'agit d'une espèce au nez sociable, qui aime saluer quiconque croise sa route !",
+   "jdm": "Tu as pris une murène ruban bleue ! On ne trouvera pas de nom plus descriptif !"
+}

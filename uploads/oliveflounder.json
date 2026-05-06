@@ -1,0 +1,10 @@
+{
+  "_id": "13",
+  "name": "Cardeau",
+   "image": "NH-Icon-oliveflounder.png", 
+   "price": "800", 
+   "location": "mer", 
+   "season": ["hiver", "printemps", "été", "automne"],
+   "description": "Au sortir de l’œuf, le cardeau n'a pas une forme différente de celle des autres poissons. Mais en grandissant, il devient plus large, plus plat, et peut atteindre la taille respectable d'un mètre. Il passe le plus clair de son temps dissimulé sous le sable des fonds marins, prêt à se jeter sur sa proie. Laquelle doit être bien surprise de se voir agressée par le sol de sa cuisine !",
+   "jdm": "Tu as pris un cardeau ! Il n'a pas l'air embarllé !"
+}

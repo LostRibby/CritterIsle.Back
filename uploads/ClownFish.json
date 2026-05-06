@@ -1,0 +1,10 @@
+{
+  "_id": "57",
+  "name": "Poisson-clown",
+   "image": "NH-Icon-clownfish.png", 
+   "price": "650", 
+   "location": "mer", 
+   "season": ["printemps", "été"],
+   "description": "Nul ne saurait contester les qualités remarquables du poisson-clown. Ce poisson éclatant se niche dans les anémones venimeuses... Ils ont en quelque sorte conclu un marché. Tandis que notre ami trouve un foyer ainsi que de la nourriture dans les bras entortillés de l'anémone... Celle-ci se voit débarrassée de ses parasites et protégée des prédateurs par son obligeant invité. La nature nous enseigne ainsi qu'il faut toujours entretenir des relations cordiales avec ses colocataires !",
+   "jdm": "Tu as pris un poisson-clown ! Qu'est-ce qu'on se marre, dans la mer !"
+}

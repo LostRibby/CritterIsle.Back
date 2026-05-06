@@ -1,0 +1,10 @@
+{
+  "_id": "7",
+  "name": "Bichir",
+   "image": "NH-Icon-saddlebichir.png", 
+   "price": "4000", 
+   "location": "rivières", 
+   "season": ["été"],
+   "description": "Oh, voici un élégant animal ! Enfin, “élégant”… disons en tout cas que l’apparence du bichir est unique. Sa vision quelque peu défaillante est compensée par son excellent odorat grâce auquel il repère ses proies. Tu imagines devoir te fier uniquement à tes narines pour trouver de la nourriture ? Je vais te dire une chose : je préfère être celui qui le regarde nager plutôt que d’être un bichir moi-même !",
+   "jdm": "Tu as pris un bichir ! C'est un beau spécimen !Tu as pris un bichir ! C'est un beau spécimen !"
+}

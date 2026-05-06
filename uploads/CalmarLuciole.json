@@ -1,0 +1,10 @@
+{
+  "_id": "8",
+  "name": "Calmar luciole",
+   "image": "96px-FireFly_Squid_NH_Icon.png", 
+   "price": "1400", 
+   "speed": "lente", 
+   "season": ["printeps", "été"],
+   "description": "Le calmar luciole est un calmar migrateur atteignant péniblement les sept centimètres à la toise. Et bien qu’il ait élu domicile dans les abysses, il déménage sur la côte le temps de se reproduire. Il tient son nom de la lumière bleue qu’il émet, très semblable à celle de l’insecte que nous connaissons bien. Lumière qui peut servir à  eloigner les prédateurs, à communiquer, et même à attirer son quatre-heures à lui... En fait, on ne sait pas au juste à  quoi sert cette lumière... La nature est une petite cachotière, ouh ouh !",
+   "jdm": "Tu as remonté un calmar luciole !  ... C’est une lumière  !"
+}

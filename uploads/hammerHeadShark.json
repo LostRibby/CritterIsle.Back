@@ -1,0 +1,10 @@
+{
+  "_id": "65",
+  "name": "Requin marteau",
+   "image": "NH-Icon-hammerheadshark.png", 
+   "price": "8000", 
+   "location": "mer", 
+   "season": ["été"],
+   "description": "On reconnaît le requin marteau à sa tête en forme de marteau, à laquelle il... doit son nom. Ouh. Tu me diras que tu t'en doutes, mais sais-tu qu'elle lui confère un champ de vision vertical de 360 degrés ? Imagine le potentiel ! Pouvoir remarquer des lacets défaits et une pluie imminente en même temps !",
+   "jdm": "Tu as pris un requin marteau ! Il fait travailler sa tête.."
+}

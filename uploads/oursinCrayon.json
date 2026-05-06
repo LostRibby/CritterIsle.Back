@@ -1,0 +1,10 @@
+{
+  "_id": "33",
+  "name": "Oursin crayon",
+   "image": "96px-Slate_Pencil_Urchin_NH_Icon.png", 
+   "price": "2000", 
+   "speed": "moyen", 
+   "season": ["printemps", "été"],
+   "description": "L'oursin crayon est un oursin coiffé de piquants épais et arrondis évoquant une mine de carbone. Ces piquants le protège non seulement des prédateurs, mais également des caprices des vagues. On peut admirer la vive couleur rouge, brune ou violette de l'oursin crayon dans les récifs coralliens. Ceci dit, on prétend qu'à la faveur de la nuit, il vire au rose pâle ! Quoi qu'il en soit... Sa teinte vive effraie le biologiste marin amateur, de féroces créatures partageant cette particularité... Mais en l’occurrence et entre nous, elle ne relève que d'une charmante coquetterie sous-marine !",
+   "jdm": "Tu as remonté un oursin crayon ! Il doit avoir une très jolie écriture !"
+}

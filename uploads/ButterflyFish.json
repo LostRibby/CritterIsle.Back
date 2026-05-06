@@ -1,0 +1,10 @@
+{
+  "_id": "58",
+  "name": "Poisson-papillon",
+   "image": "NH-Icon-butterflyfish.png", 
+   "price": "1000", 
+   "location": "mer", 
+   "season": ["printemps", "été", "automne"],
+   "description": "Ah, le poisson-papillon... Comment résister au charme coloré de ses ailes et à la grâce de son vol ? Enfin, je dis « poisson-papillon », mais ce terme passe-partout désigne un groupe de plus de cent espèces ! Ces merveilles aquatiques nagent en banc parmi les coraux, douillettement ballottées par les marées. À peine peut-on se figurer spectacle d'une si éblouissante beauté... sinon en rêve !",
+   "jdm": "Tu as pris un poisson-papillon ! Avant, c'était un poisson-chenille ?"
+}

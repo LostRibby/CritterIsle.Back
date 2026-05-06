@@ -19,7 +19,7 @@ const cors = require('cors');
 // Routes
 const router = require('./routes'); 
 server.use('/api', router); 
-
+server.use('/uploads', express.static("uploads"));
 
 // Connexion DB + démarrage serveur
 mongoose.connect(MONGO_URI, { dbName: 'CritterIsle' })

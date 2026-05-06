@@ -1,0 +1,10 @@
+{
+  "_id": "36",
+  "name": "Poulpe",
+   "image": "96px-Octopus_NH_Icon.png", 
+   "price": "1200", 
+   "speed": "lent", 
+   "season": ["hiver", "printemps", "été", "automne"],
+   "description": "Il a huit membres, trois cœurs et un seul cerveau, mais étonnement volumineux, c'est le poulpe ! Le roi du camouflage dont la peau change de couleur et de texture à la vitesse de la lumière ! Le temps de cligner des yeux, il sera passé de l'apparence d'un fond sablonneux... à celle d'un rocher ! Mais ses talents ne sont pas là uniquement pour amuser la galerie ! Ouh, ouh ! Face à un prédateur, le poulpe peut émettre un nuage d'encre et pouf, disparaître des radars ! Son seul défaut, c'est son nom... Il aurait été bien plus judicieux de l'appeler le ninja des abysses !",
+   "jdm": "Tu as remonté un poulpe ! On raconte qu'il pond des œufpes !"
+}

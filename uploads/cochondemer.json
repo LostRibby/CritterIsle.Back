@@ -1,0 +1,10 @@
+{
+  "_id": "9",
+  "name": "Cochon de mer",
+   "image": "96px-Sea_Pig_NH_Icon.png", 
+   "price": "10000", 
+   "speed": "très rapide", 
+   "season": ["hiver"],
+   "description": "Jamais une créature n’aura autant brouillé les lignes entre l’adorable et l’effrayant que le cochon de mer. Il s’agit d’une espèce de concombre de mer ayant élu domicile dans les profondeurs de l'océan.  D’environ 10 cm, cette petite boule rosâtre se meut grâce à ses pattes en forme de tubes et ses antennes.  Elle va ainsi, reniflant la boue du sol océanique et avalant les particules de carcasses en décomposition.  Enfin je previens les prédateurs : le cochon de mer n’a pas le goût du jambon. Plutôt celui du poison.",
+   "jdm": "Tu as attrapé un cochon de mer ! Il aime se rouler dans l'écume !"
+}

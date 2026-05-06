@@ -1,0 +1,10 @@
+{
+  "_id": "40",
+  "name": "Lune de mer",
+   "image": "NH-Icon-oceanSunfish.png", 
+   "price": "4000", 
+   "location": "mer", 
+   "season": ["été", "automne"],
+   "description": "La lune de mer est une cousine du poisson-ballon, à la forte carrure et à l'allure singulière. C'est bien simple : on dirait une tête de poisson plantée au bout d'une queue ! D'un tempérament nonchalant, cette paisible créature n'aime rien tant que de se laisser porter par le courant. Ce qui n'est pas pour me déplaire surtout si le courant emporte cette énorme tête loin de moi !",
+   "jdm": "Tu as pris une lune de mer ! Tu peux mettre les choses au clair "
+}

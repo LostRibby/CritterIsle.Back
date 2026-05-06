@@ -1,0 +1,10 @@
+{
+  "_id": "4",
+  "name": "Balane",
+   "image": "96px-Acorn_Barnacle_NH_Icon.png", 
+   "price": "600", 
+   "speed": "immobile", 
+   "season": ["hiver", "printemps", "été", "automne"],
+   "description": "Ne va pas voir dans la balane une parente de la palourde. Non, non, ce n'est pas du tout un mollusque. Elle appartient en fait à la famille des crabes et des homards, même si la ressemblance n'est pas frappante. On peut aussi aisément penser que la balane ne voyage guère et préfère se lover sur quelque confortable rocher. Mais les jeunes sont en fait de hardis bourlingueurs voguant longtemps au gré des courants. Et sans carapace ! Ils ne cessent leur audacieuse exploration qu'après avoir trouvé une roche accueillante où s'installer. Je me demande si les balanes adultes fixent parfois l'horizon marin en rêvant à leur tumultueuse jeunesse...",
+   "jdm": "Tu as remonté une balane ! C'est un croisement entre une banane et une baleine ?"
+}

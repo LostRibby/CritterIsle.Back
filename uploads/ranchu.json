@@ -1,0 +1,10 @@
+{
+  "_id": "63",
+  "name": "Ranchu",
+   "image": "NH-Icon-ranchu.png", 
+   "price": "4500", 
+   "location": "étang", 
+   "season": ["hiver","printemps", "été", "automne"],
+   "description": "Le ranchu est un charmant cousin du poisson rouge, présentant un corps arrondi et une tête rectangulaire. Cette dernière particularité ne lui vient qu'avec l'âge, puisqu'elle est définitivement formée vers trois ans. Mais la forme exacte de cette tête varierait selon différents facteurs, tels que la taille de l'aquarium. Certains n'hésitent pas à en profiter pour tenter d'obtenir les formes les plus diverses en variant l'habitat... Et bien entendu, personne ne songe à demander au ranchu quelle tête il préférerait avoir...",
+   "jdm": "Tu as pris un ranchu ! Comme les autres petits pois, celui-ci est également rouge."
+}

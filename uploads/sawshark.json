@@ -1,0 +1,10 @@
+{
+  "_id": "66",
+  "name": "Requin scie",
+   "image": "NH-Icon-sawshark.png", 
+   "price": "12000", 
+   "location": "mer", 
+   "season": ["été"],
+   "description": "Ainsi que son nom le suggère, le requin scie est un requin dont la tête ressemble à une scie. Cet appendice peu ordinaire lui sert aussi bien a déterrer ses proies dans le sable qu’à les trancher en deux ! Vu sous cet angle, n’aurait-il pas été plus judicieux de le baptiser le “requin-pelle-épée” ?",
+   "jdm": "Tu as pris un requin scie ! Le fidèle ami du requin ébéniste !"
+}

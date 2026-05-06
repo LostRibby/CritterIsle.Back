@@ -1,0 +1,11 @@
+{
+  "_id": "2",
+  "name": "Arapaima",
+   "image": "NH-Icon-arapaima.png", 
+   "price": "10000", 
+   "location": "rivière", 
+   "season": ["été", "automne"],
+   "description": "Pour un poisson d’eau douce, l’arapaïma affiche une carrure confortable. Regarde ce morceau ! Et quelle douceur ! Figure-toi que le mâle protège ses petits en les lovant délicatement dans sa bouche. Pendant ce temps, la femelle nage en cercle autour de son compagnon afin de repousser les prédateurs. Parfois, même les animaux à sang froid ont des comportements qui font chaud au cœur !",
+   "jdm":"Tu as pris un arapaïma ! T'as vu la taille de ce truc ?!"
+ 
+  }

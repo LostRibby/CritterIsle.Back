@@ -1,0 +1,10 @@
+{
+  "_id": "18",
+  "name": "Crevette nordique",
+   "image": "96px-Sweet_Shrimp_NH_Icon.png", 
+   "price": "1400", 
+   "speed": "lent", 
+   "season": ["automne", "hiver"],
+   "description": "Je me permets de saisir l'occasion qui m'est offerte de t'exposer un phénomène scientifique fascinant... Dans leur jeunesse les crevettes nordiques sont toutes des mâles. Et l'âge venant... Elles changent de sexe biologique ! Et le plus intéressant c'est qu'elles sont loin d'être un cas isolé ! En effet, tu apprendras que nombre des habitants des mers changent de sexe biologique en grandissant... Le poisson-clown, des étoiles de mer, le bar commun... des créatures en tous genres, pourrait-on dire ! Ah, il ne se passe pas un jour sans qu'une splendeur de l'océan n'émerveille mon vieux cœur racorni !",
+   "jdm": "Tu as remonté une crevette nordique ! Elle a fait un très long voyage !"
+}

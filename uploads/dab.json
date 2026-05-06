@@ -1,0 +1,10 @@
+{
+  "_id": "38",
+  "name": "Limande",
+   "image": "NH-Icon-dab.png", 
+   "price": "300", 
+   "location": "mer", 
+   "season": ["hiver", "printemps", "été", "automne"],
+   "description": "La limande est un poisson plat présentant de nombreuses similitudes avec le cardeau. Cependant, il suffit à l'amateur éclairé d'observer leur bouche pour les distinguer aisément. Mais à titre personnel, c'est avant tout le placement de leurs yeux qui titillent mon sens de l'harmonie. Je m'explique. Les yeux de la limande sont tous deux du côté droit et ceux du cardeau, tous deux à gauche. Sachant qu'ils passent l'essentiel de leur temps allongés sur un flanc différent, c'est somme toute logique. Mais cela demeure... comment dire ? Perturbant ? Dérangeant ? Insultant pour tout amoureux de la symétrie ? Eh bien, je crois que nous avons fait le tour de la question. Fascinant, n'est-ce-pas ?",
+   "jdm": "Tu as pris une limande ! Tu as vu ses deux yeux globuleux ?"
+}

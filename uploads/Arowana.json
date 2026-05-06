@@ -1,0 +1,10 @@
+{
+  "_id": "3",
+  "name": "Arowana",
+   "image": "NH-Icon-arowana.png", 
+   "price": "10000", 
+   "location": "rivière", 
+   "season": ["été", "automne"],
+      "description": "S’il est vrai que le sublime arowana peut rapporter un confortable pécule au vendeur peu scrupuleux… …sa véritable valeur ne se mesure pas en clochettes. Vois-tu, notre ami appartient à une espèce protégée. Et c’est à nous, amateurs avisés, qu’il revient de préserver de si splendides créatures. Alors n’hésite pas à nous remettre de tels poissons, ils seront en de bonnes serres ici !",
+   "jdm": "Tu as attrapé un Arowana! Les poisson ananas!"
+}

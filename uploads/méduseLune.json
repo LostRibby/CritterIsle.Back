@@ -1,0 +1,10 @@
+{
+  "_id": "28",
+  "name": "Méduse lune",
+   "image": "96px-Moon_Jellyfish_NH_Icon.png", 
+   "price": "600", 
+   "speed": "très lent", 
+   "season": ["été"],
+   "description": "Ah, la méduse lune... Comment ne pas fondre face à cette adorable fleur des océans... Certes, il ne fait pas bon se frotter à ses tentacules irritants, mais on ne va pas s'arrêter à ce menu détail ! Pourtant, si les autres créatures goûtent peu son charme translucide, on ne peut guère les en blâmer... La méduse lune ne tue-t-elle pas poissons et petits animaux avec ses cnidocystes, des cellules irritantes ? Ne broie-t-elle pas ses victimes à l'aide de ses bras oraux avant de les engloutir sans remords ? Elle nous rappelle en tout cas que la nature peut cacher bien de la cruauté derrière ses plus admirables beautés.",
+   "jdm": "Tu as remonté une méduse lune ! Tant qu'elle ne se transforme pas en homard-garou..."
+}

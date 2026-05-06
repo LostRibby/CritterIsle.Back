@@ -1,0 +1,10 @@
+{
+  "_id": "39",
+  "name": "Ver plat",
+   "image": "96px-Flatworm_NH_Icon.png", 
+   "price": "700", 
+   "speed": "lent", 
+   "season": ["été"],
+   "description": "Le ver plat marin est... ma foi... plat. Et ressemble à un ver, ainsi que son nom le fait deviner aux perspicaces. Mais n'en concluons pas qu'il s'agit d'une créature sans intérêt, elle jouit au contraire d'immenses pouvoirs ! Ainsi, en cas de blessure, elle fait repousser n'importe quelle partie de son corps en un tournemain. Et si elle se retrouve coupée par le milieu, chaque partie se régénère en un nouveau ver frétillant de santé ! Mieux : certains vers peuvent ainsi se répliquer sans passer par la case « tranché en deux », si incommode ! Ah, si je pouvais aussi me cloner... Ouh ouh, de combien de musées serais-je l'illustre conservateur !",
+   "jdm": "Tu as remonté un ver plat ! Bon, c'est un ver ou c'est un plat ?!"
+}

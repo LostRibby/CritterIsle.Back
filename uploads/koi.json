@@ -1,0 +1,10 @@
+{
+  "_id": "15",
+  "name": "Carpe Koi",
+   "image": "NH-Icon-koi.png", 
+   "price": "4000", 
+   "location": "étang", 
+   "season": ["hiver", "printemps", "été", "automne"],
+   "description": "La carpe koï est un poisson élevé pour ses mutations de couleurs depuis mille ans ! Il suffit d'ailleurs d'un coup d’œil pour constater que cet effort millénaire n'a pas été fourni en vain. Mais encore aujourd'hui, des carpes koï sont élevées dans le but de créer de nouvelles teintes ! De quel éclats éblouissants la carpe koï brillera-t-elle dans mille ans ? Une question qui laisse songeur...",
+   "jdm": "Tu as pris un carpe koï ! Ça reste une carpe... quoi."
+}

@@ -1,0 +1,11 @@
+
+{
+  "_id": "37",
+  "name": "Ishidai",
+   "image": "NH-Icon-barredknifejaw.png", 
+   "price": "5000", 
+   "location": "mer", 
+   "season": ["printemps", "été", "automne"],
+      "description": "Ouh ouh, ça alors ! C'est une prise digne d'une star de la pêche ! Quel beau travail ! Le scarus est un poisson intelligent. On dit qu'il faut être ingénieux pour le piéger. Sa couleur monotone indique son intelligence. C'est un poisson sensé, ouh ! ",
+   "jdm": "Tu as pris un scarus! Scarus, scare, scarum..."
+}

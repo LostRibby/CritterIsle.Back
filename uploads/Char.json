@@ -1,0 +1,10 @@
+{
+  "_id": "47",
+  "name": "omble",
+   "image": "NH-Icon-char.png", 
+   "price": "3800", 
+   "location": "cascade", 
+   "season": ["printemps", "été", "automne"],
+   "description": "L'omble est un des plus gros poissons au monde, et pourtant, la concurrence est rude sur ce point ! Ce sont des prédateurs attachés à leur terrain de chasse, qui défendent leur territoire avec opiniâtreté. Autrement dit, nous avons affaire à un combattant aussi valeureux qu'aguerri.",
+   "jdm": "Tu as pris un omble ! Pourtant, aucun omble au tableau !"
+}

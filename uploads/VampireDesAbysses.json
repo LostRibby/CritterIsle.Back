@@ -1,0 +1,10 @@
+{
+  "_id": "38",
+  "name": "Vampire des abysses",
+   "image": "96px-Vampire_Squid_NH_Icon.png", 
+   "price": "10000", 
+   "speed": "très rapide", 
+   "season": ["printemps", "été"],
+   "description": "Gare au vampire des abysses ! Ce monstre marin à huit bras va se ruer sur toi pour se repaître de ton sang ! Ouh ouh ! Ha ha ! Je te taquine ! Hm, trêve de plaisanterie. Le vampire des abysses, donc, hante les fonds marins où nulle lumière ne parvient... Mais s'il a des faux airs de suceur de sang, il ne faut pas s'y fier. Il est en fait friand de plancton et d'algue. Bref, c'est une douce créature qui se contente de projeter une substance gluante et brillante à ses agresseurs. Mais alors, pourquoi s'obstine-t-on à affubler ce pauvre vampire des abysses de ce terrifiant sobriquet ? Il le doit à la « cape » que forme la toile de peau rouge et pourpre entre ses bras hérissés de piquants ! Voilà comment un fascinant calmar passe aux yeux du monde pour un vampire venu faire trempette.",
+   "jdm": "Tu as remonté un vampire des abysses ! Comme ça, il reste loin du soleil."
+}

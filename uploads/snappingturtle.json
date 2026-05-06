@@ -1,0 +1,10 @@
+{
+  "_id": "76",
+  "name": "Tortue serpentine",
+   "image": "NH-Icon-snappingturtle.png", 
+   "price": "5000", 
+   "location": "rivière", 
+   "season": ["printemps", "été", "automne"],
+   "description": "La tortue serpentine est une énorme tortue connue pour ses griffes et son corps évoquant un crocodile. Ou plutôt pour sa morsure féroce et pour la vivacité de cette dernière, étonnante de la part d'une tortue... Non ! Elle est SURTOUT connue pour m'avoir pourchassé dans un parking ! J'ai dû grimper sur une voiture !",
+   "jdm": "Tu as pris une tortue serpentine ! Ou est-ce un serpent tortueux ?"
+}

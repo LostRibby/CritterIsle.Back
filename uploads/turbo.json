@@ -1,0 +1,10 @@
+{
+  "_id": "37",
+  "name": "Turbo",
+   "image": "96px-.Turban_Shell_NH_Icon.png", 
+   "price": "1000", 
+   "speed": "lent", 
+   "season": ["hiver", "printemps", "été", "automne"],
+   "description": "Le turbo est un gastéropode qui dispose d'un fameux tour dans son sac... enfin, dans sa carapace. Vois-tu, où qu'il aille, ce petit malin ne se déplace jamais sans son opercule dur et circulaire. « Son quoi », me demandes-tu ? Son opercule, c'est-à-dire une sorte de trappe ressemblant à un bouton ! À l'approche du danger, notre ami se réfugie sans sa carapace et claque l'opercule d'un coup sec ! Le voilà bien à l'abri, faisant fi de la menace qui rôde alentour. Et je dis « bravo, turbo, bravo » ! Si un importun vient frapper à ta porte, fais comme le turbo : éteins la lumière et verrouille les entrées !",
+   "jdm": "Tu as remonté un turbo ! Il vit à cent à l'heure !"
+}

@@ -1,0 +1,10 @@
+{
+  "_id": "50",
+  "name": "Poisson arc-en-ciel",
+   "image": "NH-Icon-rainbowfish.png", 
+   "price": "1500", 
+   "location": "rivières", 
+   "season": ["printemps", "été", "automne"],
+   "description": "Le poisson arc-en-ciel est un poisson tropical à la teinte métallisée et aux splendides nageoires. On répertorie plus de 50 espèces, chacun arborant une couleur aussi unique que coquette. J’avoue que je troquerais volontiers mes plumes couleur de brownie mal cuit contre une aussi élégante robe.",
+   "jdm": "Tu as pris un poisson arc-en-ciel ! Où est mon poisson marmite-pleine-d'or ?"
+}

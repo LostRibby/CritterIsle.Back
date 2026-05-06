@@ -8,7 +8,7 @@ const bugController = {
 
     res.status(200).json({
         succes: true, 
-        coun: bugs.length,
+        count: bugs.length,
         data: bugs
     });
     }catch(err){

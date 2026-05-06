@@ -1,0 +1,10 @@
+{
+  "_id": "29",
+  "name": "esturgeon",
+   "image": "NH-Icon-sturgeon.png", 
+   "price": "10000", 
+   "location": "rivière", 
+   "season": ["printemps", "été", "automne"],
+   "description": "L'esturgeon barbote dans les rivières depuis 300 millions d'années... et n'a guère changé au cours du temps. On s'interroge pourtant toujours sur la raison qui le pousse à bondir hors de l'eau pour retomber sur le flanc... Le vacarme résultant de sa chute peut s'entendre à 800 m. et ce doit être encore pire sous la surface ! J'ai pour ma part une théorie selon laquelle il se livre à une imitation de tartine jaillissant du grille-pain !",
+   "jdm": "Tu as pris un esturgeon ! On l'appelle la poule d'eau aux œufs d'or !"
+}

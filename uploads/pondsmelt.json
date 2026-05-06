@@ -1,0 +1,10 @@
+{
+  "_id": "28",
+  "name": "Éperlan",
+   "image": "NH-Icon-killifish.png", 
+   "price": "300", 
+   "location": "rivière", 
+   "season": ["hiver"],
+   "description": "Pour beaucoup, l'éperlan évoque la pêche en milieu polaire, parmi les rivières et lacs gelés. Cette activité implique de creuser un trou circulaire dans la glace, d'y lancer sa ligne... et de patienter. Je m'en voudrais de gâcher le plaisir de qui que ce soit, alors... Alors je vais fermer mon grand bec.",
+   "jdm": "Tu as pris un éperlan ! Il n'était pas dans un bon jour "
+}

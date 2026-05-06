@@ -1,0 +1,10 @@
+{
+  "_id": "23",
+  "name": "Crapet",
+   "image": "NH-Icon-bluegill.png", 
+   "price": "180", 
+   "location": "rivière", 
+   "season": ["hiver", "printemps", "été", "automne"],
+   "description": "On ne fait pas plus commun que le crapet. Il en arrive même à être envahissant dans certaines régions. Il a deux caractéristiques majeures : une tendance à avaler n'importe quoi et une grande capacité d'adaptation. Ce fléau des pêcheurs se goinfre ainsi de tous les poissons alentour, laissant les cannes à pêche en berne. Pourtant, on aurait bien du mal à discerner une once de malveillance au fond de ces grands yeux perçants.",
+   "jdm": "Tu as pris un crapet ! Tu l'as bien attrapé !"
+}

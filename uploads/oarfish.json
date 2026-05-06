@@ -1,0 +1,10 @@
+{
+  "_id": "60",
+  "name": "Poisson Ruban",
+   "image": "NH-Icon-oarfish.png", 
+   "price": "9000", 
+   "location": "mer", 
+   "season": ["hiver", "printemps"],
+   "description": "Le poisson-ruban est une sorte d'anguille dont on prétend qu'il pourrait atteindre 11 m de long. C'est une figure récurrente de nombreuses légendes, où il tient souvent le rôle d'envoyé des dieux. À ce propos, je ne serais pas surpris si cette créature était à l'origine des mythes de serpents marins géants. Le seul élément dont on soit certain, au fond, c'est que les pêcheurs à qui il échappe exagèrent sa taille !",
+   "jdm": "Tu as pris un poisson-ruban ! Il se déplace toujours en bande "
+}

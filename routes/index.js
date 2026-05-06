@@ -3,6 +3,7 @@ const bugRouter = require('./Bug.router');
 const DeepSeaCreatureRouter= require('./DeepSeaCreature.router')
 const userRouter = require('./user.router');
 const authRouter = require('./authRouter'); 
+const mongoose = require('mongoose');
 
 const router = require('express').Router(); 
 
@@ -19,5 +20,7 @@ router.use('/Creatures', DeepSeaCreatureRouter);
 router.use ('/Users', userRouter);
 
 router.use ('/auth', authRouter); 
+
+ 
 
 module.exports = router; 

@@ -1,0 +1,10 @@
+{
+  "_id": "6",
+  "name": "Bar commun",
+   "image": "NH-Icon-seabass.png", 
+   "price": "400", 
+   "location": "mer", 
+   "season": ["hiver", "printemps", "été", "automne"],
+   "description": "Le bar commun est un terme utilisé pour désigner de nombreuses variétés de poissons d'eau de mer. Il y en a de toutes sortes, depuis les gringalets ne dépassant guère les 10 cm jusqu'aux géants de 2,50 m ! On conviendra donc qu'un nom aussi ordinaire que « bar commun » ne rend guère justice à cette variété. Et quid des « perches blanches » à la sobre dignité ? Des « loups de mer » au tempérament aventureux ? Sans oublier le « mérou patate » et son flegme légendaire ! Et le « mérou sombre », qui en parle, ouh ? ",
+   "jdm": "Tu as pris un bar commun ! Gare au bar à thym !"
+}

@@ -1,0 +1,10 @@
+{
+  "_id": "52",
+  "name": "Poisson docteur",
+   "image": "NH-Icon-nibblefish.png", 
+   "price": "1500", 
+   "location": "rivière", 
+   "season": ["été"],
+   "description": "Le poisson docteur tient son nom de… d’une certaine thérapie…dermatologique. Il semble qu’elle soit connue depuis des millénaires…Mais je ne m’y suis jamais soumis personnellement… Il se goinfre de ta peau morte en la houspillant de sa bouche sans dents, peux-tu concevoir pareille horreur ?! J’espère que tu ne compte pas me poser d’avantage de questions sur ces cauchemars à écailles. Ouh.",
+   "jdm": "Tu as pris un poisson docteur ! Mets-le dans un aquarium hôpital "
+}

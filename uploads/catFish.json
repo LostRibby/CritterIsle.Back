@@ -1,0 +1,10 @@
+{
+  "_id": "71",
+  "name": "Silure",
+   "image": "NH-Icon-catfish.png", 
+   "price": "800", 
+   "location": "rivière", 
+   "season": ["été", "automne"],
+   "description": "Le silure est célèbre pour ses élégantes moustaches, son large corps et sa grande bouche. Malgré ses yeux imposants, il n'y voit pas grand-chose. Ses longues moustaches, sensibles au toucher, lui permettent de compenser cette faible vision. Les traits horizontaux et verticaux sur son corps sont autant de trous qui lui servent de capteurs. Ils lui permettent de détécter les faibles signaux électriques émis par les autres poissons. Le calme apparent du silure contraste avec la manière qu'il a de se jeter brusquement sur sa proie.",
+   "jdm": "Tu as pris un silure ! J'en suis pas si sûr..."
+}

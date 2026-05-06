@@ -1,0 +1,10 @@
+{
+  "_id": "39",
+  "name": "Loche d'étang",
+   "image": "NH-Icon-loach.png", 
+   "price": "400", 
+   "location": "étang", 
+   "season": ["printemps"],
+   "description": "La loche d'étang n'est certes pas le plus charismatique des poissons, mais elle sait se rendre utile. Ses vertus médicinales ont notamment soulagé bien des affections au cours des siècles ! Alors garde-toi de la juger trop vite et souviens-toi : si la loche est moche, c'est un poisson puissant !",
+   "jdm": "Tu as pris une loche d'étang ! Tu savais que la loche détend ? / Tu as pris une loche d'etang ! Ça vaut mieux que de boire l'étang à la louche ! "
+}

@@ -1,0 +1,10 @@
+{
+  "_id": "29",
+  "name": "Moule",
+   "image": "96px-Mussel_NH_Icon.png", 
+   "price": "1500", 
+   "speed": "lent", 
+   "season": ["hiver", "été", "automne"],
+   "description": "Savais-tu que la moule portait la barbe ? Ouh ! Si, si c'est tout à fait vrai ! Enfin, c'est en partie vrai, du moins. Pour être plus précis, la moule possède une glande sécrétant une fibre appelée byssus. Cette fibre, qui ressemble à une barbe, lui permet de s'agripper à un rocher et de s'y maintenir. Il convient donc de préciser que sa barbe est fonctionnelle, et non un vulgaire accessoire de mode. Ce qui, soit dit en passant, devrait être le cas de toutes les barbes.",
+   "jdm": "Tu as remonté une moule ! J'espère qu'elle a la frite !"
+}

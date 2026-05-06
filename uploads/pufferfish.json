@@ -1,0 +1,10 @@
+{
+  "_id": "59",
+  "name": "Poisson porc épic",
+   "image": "NH-Icon-pufferfish.png", 
+   "price": "240", 
+   "location": "mer", 
+   "season": ["été"],
+   "description": "Comme son cousin le poisson-ballon, le poisson-porc-épic se met à enfler dès qu'il fait face à un danger. Par contre, ses piquants ne sont pas porteurs d'un poison mortel comme le sont ceux de son alter ego... Ainsi, s'ils sont tous deux terrifiants, celui-ci a du moins le bon goût de ne pas menacer la vie de ses voisins.",
+   "jdm": "Tu as attrapé un poisson-porc-épic ! Fais attention à ses épines "
+}

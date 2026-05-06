@@ -1,0 +1,10 @@
+{
+  "_id": "14",
+  "name": "Carpe",
+   "image": "NH-Icon-cruciancarp.png", 
+   "price": "300", 
+   "location": "etang", 
+   "season": ["hiver", "printemps", "été", "automne"],
+   "description": "Ah, la carpe... J'espère que tu n'as jamais eu la témérité insensée de jeter un œil à sa dentition ! Les dents que contient sa gorge sont assez robustes pour trancher des coquillages... ou des doigts ! D'où la règle d'or du zoologiste avisé : créature mordante proche, on garde la main dans la poche ! De mon côté, n'ayant ni mains ni doigts, je ne suis guère impressionné par ce petit animal !",
+   "jdm": "Tu as pris une carpe ! Elle ne te dira pas grand-chose !"
+}

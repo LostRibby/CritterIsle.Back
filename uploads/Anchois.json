@@ -1,0 +1,11 @@
+{
+  "_id": "1",
+  "name": "Anchois",
+   "image": "NH-Icon-anchovy.png", 
+   "price": "200", 
+   "location": "Sea", 
+   "season": ["hiver", "printemps", "été", "automne"],
+   "description": "Si l'on recense plus de 140 espèces d'anchois, elles présentent toutes un point commun. Elles sont toutes petites et barbotent bouche ouverte pour se nourrir des particules qu'apporte le courant. Certains jours de paresse, je ne dédaignerais pas un tel système d'alimentation automatique.",
+   "jdm": "Tu as pris un anchois ! Ne t'avis pas de venir sur ma pizza !"
+   
+}

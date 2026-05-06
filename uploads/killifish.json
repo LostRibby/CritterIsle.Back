@@ -1,0 +1,10 @@
+{
+  "_id": "30",
+  "name": "Fondule barrée",
+   "image": "NH-Icon-pondsmelt.png", 
+   "price": "300", 
+   "location": "étang", 
+   "season": ["printemps", "été"],
+   "description": "Ah, le sublime fondule barré ! Sais-tu qu'il appartient à la famille des killis, forte de mille espèces différentes ? Je n'ose imaginer le casse-tête que doit représenter l'organisation du moindre repas du dimanche ! Si mon cousin préféré, au sein de ce prolifique arbre généalogique, est le choquemort aux barres argentées... notre petit fondule n'est pas en reste, avec ses nobles barres foncées et son adorable queue arrondie ! Oui, c'est une famille qui réserve de nombreuses surprises toutes plus ravissantes les unes que les autres !",
+   "jdm": "Tu as pris un fondule barré ! Ça fait un de moins sur la liste "
+}

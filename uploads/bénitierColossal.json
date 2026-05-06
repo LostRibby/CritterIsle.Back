@@ -1,0 +1,10 @@
+{
+  "_id": "6",
+  "name": "Bénitier colossal",
+   "image": "96px-Gigas_Giant_Clam_NH_Icon_png", 
+   "price": "15000", 
+   "speed": "très rapide", 
+   "season": ["printemps", "été"],
+   "description": "Le plus grand bivalve du monde, le bénitier colossal, vit dans les eaux chaudes et coralliennes. Ce géant peut mesurer 1,8 mètre, peser 270 kilos, et atteindre l'âge vénérable de 100 ans. Et quand on le voit, on peut certes songer qu'il ne ferait qu'une bouchée d'un malheureux nageur égaré. Heureusement, le plancton lui offre une pitance plus à son goût ! Il se gave également des nutriments que lui fournissent les algues avec lesquelles il vit en symbiose… Il passe ses jours ainsi, immobile, la coquille semi-ouverte, gobant la nourriture qui passe à sa portée… Une telle existence est certes du pain bénit…  En ce sens, on peut dire que notre ami porte bien son nom !",
+   "jdm": "Tu as remonté un bénitier colossal ! Tu parles d'un monstre marin !"
+}

@@ -1,0 +1,10 @@
+{
+  "_id": "46",
+  "name": "Néon bleu",
+   "image": "NH-Icon-neontetra.png", 
+   "price": "500", 
+   "location": "rivière", 
+   "season": ["printemps", "été", "automne"], 
+   "description": "Je te présente un de mes chouchous, le néon bleu, une des merveilles des eaux tropicales ! Il est si minuscule, si... « néoneux » ! Il doit vivre dans un coin si brillant pour prendre de telles couleurs... Imagine l'éclat aveuglant qu'auraient développé mes plumes si j'avais grandi dans le même environnement !",
+   "jdm": "Tu as pris un néon bleu ! Tu n'auras plus jamais peur du noir !"
+}

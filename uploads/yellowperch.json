@@ -1,0 +1,10 @@
+{
+  "_id": "48",
+  "name": "Perche jaune",
+   "image": "NH-Icon-yellowperch.png", 
+   "price": "300", 
+   "location": "étang", 
+   "season": ["hiver", "automne"],
+   "description": "La perche jaune, voilà un excellent sujet pour d'exquises causeries, en plus de si bien flatter les yeux. Sa nageoire dorsale finement irrégulière ! Ses rayures brillantes ! Ses divines couleurs ! On ne chantera jamais assez les louanges de cette délicieuse créature. Je donnerais cher pour l'observer dans son habitat naturel, mais c'est impossible. Figure-toi que la perche jaune se montre avant tout en hiver... En hiver dans une rivière ! Faut être givré !",
+   "jdm": "Tu as pris une perche jaune ! L'opération perche jaune a été un succès "
+}

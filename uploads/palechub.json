@@ -1,0 +1,10 @@
+{
+  "_id": "16",
+  "name": "Chevaine",
+   "image": "NH-Icon-palechub.png", 
+   "price": "200", 
+   "location": "rivière", 
+   "season": ["hiver", "printemps","été", "automne"],
+   "description": "Le chevaine est un poisson de rivière dont la teinte toute en sobriété oscille entre le noir et l'argenté... ... Jusqu'à ce que le mâle cherche à séduire ses voisines ! Auquel cas ses couleurs gagnent en vivacité ! Si ce poisson ne paie pas de mine à première vue, il sait se faire élégant lorsque la nécessité s'en fait sentir. Je pourrais d'ailleurs en prendre de la graine...",
+   "jdm": "Tu as pris un chevaine ! Il irait bien sur mon chevet !"
+}

@@ -1,0 +1,10 @@
+{
+  "_id": "36",
+  "name": "Hippocampe",
+   "image": "NH-Icon-seahorse.png", 
+   "price": "1100", 
+   "location": "mer", 
+   "season": ["hiver", "printemps", "été", "automne"],
+   "description": "Ah, l'hippocampe, un de mes chouchous ! C'est une créature si étrange... mais qui reste un poisson ! Même si, pour un poisson, il n'est pas très bon nageur. En effet, sa nageoire dorsale n'est pas des plus efficaces pour assurer une propulsion digne de ce nom. N'étant guère doué pour la nage, il s'en remet à sa queue préhensile pour s'accrocher à la vie. Sache également que cet étrange animal est dépourvu d'estomac ! Il est donc forcé de s'alimenter en permanence pour éviter l'inanition. La vie n'est pas facile pour ces courageuses bêtes.",
+   "jdm": "Tu as pris un hippocampe ! À dada sur mon poisson !"
+}

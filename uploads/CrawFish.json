@@ -1,0 +1,11 @@
+
+{
+  "_id": "27",
+  "name": "Ecrevisse",
+   "image": "NH-Icon-crawfish.png", 
+   "price": "200", 
+   "location": "etang", 
+   "season": ["printemps", "été"],
+   "description": "Ah, l'écrevisse ! Cet animal, qui n'est ni un crabe ni un homard, a évolué d'une manière fascinante. Mais gare à ses effroyables pinces ! Méfie-toi de ses innombrables pattes ! On dirait un insec... Plus je la regarde, plus elle me fiche la chair de poule ! Fais disparaître cette chose et n'en parlons plus !",
+   "jdm": "Tu as pris une écrevisse ! Elle est rouge de honte !"
+}

@@ -1,0 +1,10 @@
+{
+  "_id": "49",
+  "name": "Piranha",
+   "image": "NH-Icon-piranha.png", 
+   "price": "2500", 
+   "location": "rivière", 
+   "season": ["été", "automne"],
+   "description": "Ouh ! Je n'ai guère de sympathie pour le piranha... Bien que je sache qu'il ne présente que peu de danger. Et pourtant... Ces dents acérées et menaçantes... Ouh, je ne peux m'empêcher de frémir à leur vue. Ce fléau des flots attaque toujours en groupe... Imagine des centaines de dents grignotant de concert ! Quand je pense qu'ils vadrouillent paisiblement dans nos eaux tranquilles, prêts à mordre. En tout cas, une telle carrière de glouton est impensable ici ! Pas de ça dans mon musée, non !",
+   "jdm": "Tu as pris un piranha ! Reste à une bonne distance de ses dents !"
+}

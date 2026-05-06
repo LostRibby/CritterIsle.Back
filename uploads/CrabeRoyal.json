@@ -1,0 +1,10 @@
+{
+  "_id": "16",
+  "name": "Crabe royal",
+   "image": "96px-Royal_Crab_NH_Icon.png", 
+   "price": "8000", 
+   "speed": "très rapide", 
+   "season": ["hiver"],
+   "description": "Incline-toi humblement devant sa majesté le crabe royal, crustacé empreint de noblesse s'il en est. Bon, entre nous, il subsiste quelques doutes sur la légitimité de son ascendance monarchique... D'aucuns murmurent ainsi que, contrairement aux autres crabes, il descendrait des bernard-l'hermite. D'ailleurs, jette un œil à la dérobée... il a huit pattes ! Las, de mémoire de crabe, ils en ont toujours eu 10 ! Mais fi de ces détails dont je laisse le commentaire bilieux à la plèbe jalouse ! Ce crabe est royal, point ! Quand on affiche 10 kilos à la pesée et 1,5 mètre d'envergure de pattes... eh bien moi, je fais la révérence.",
+   "jdm": "Tu as remonté un crabe royal ! Attention, il pince, monseigneur !"
+}

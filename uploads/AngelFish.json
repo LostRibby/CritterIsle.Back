@@ -1,0 +1,10 @@
+{
+  "_id": "55",
+  "name": "Poisson ange",
+   "image": "NH-Icon-angelfish.png", 
+   "price": "3000", 
+   "location": "rivière", 
+   "season": ["printemps", "été", "automne"], 
+      "description": "Le Poisson-ange est une créature magnifique. Contemple un peu la ligne élégante de ces nageoires ! Mais ne te laisse pas berner par leur nom ! Ces petits dandys des flots n'ont aucune moralité ! Ainsi, c'est sans rougir qu'ils pourchassent des proies bien plus petites qu'eux ! Et ils ne s'arrêtent pas là : ces dégénérés aquatiques s'en prennent aussi à leurs congénères ! Avec des anges comme ça, crois-moi que les poissons n'ont pas besoin de démons ! C'est à se demander qui a eu l'idée saugrenue de les appeler ainsi... Ah, les mystères de la science...",
+   "jdm": "Tu as pris un poisson-ange ! C'est l'ennemi du poisson-démon"
+}
