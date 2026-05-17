@@ -11,6 +11,9 @@ const fishSchema = new mongoose.Schema({
         required: true, 
         trim: true
     }, 
+    points: {
+        type: Number
+    }
     
 },{
     collection : 'Fishes', 
