@@ -4,7 +4,7 @@ const DeepSeaCreatureRouter= require('./DeepSeaCreature.router')
 const userRouter = require('./user.router');
 const authRouter = require('./authRouter'); 
 const scoreRouter = require('./ScoresRouter')
-const mongoose = require('mongoose');
+
 
 const router = require('express').Router(); 
 
@@ -22,6 +22,6 @@ router.use ('/Users', userRouter);
 
 router.use ('/auth', authRouter); 
 
-router.use ('/Scores', scoreRouter); 
+router.use ('/Score', scoreRouter); 
 
 module.exports = router; 

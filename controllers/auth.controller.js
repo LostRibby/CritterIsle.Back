@@ -55,7 +55,7 @@ const authController = {
         id: userFound._id,
         firstname: userFound.firstname,
         lastname: userFound.lastname,
-        token : userFound.token
+        token :token
       });
 
     } catch (err) {

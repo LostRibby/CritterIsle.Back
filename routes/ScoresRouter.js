@@ -1,4 +1,5 @@
-const scoreController = require('../controllers/score.controller')
+const scoreController = require('../controllers/score.controller');
+const authentificationMiddleware = require('../middlewares/auth/authentificationMiddleware');
 const scoreRouter = require('express').Router();
 
 scoreRouter.route('/')
@@ -6,6 +7,6 @@ scoreRouter.route('/')
 
 
 scoreRouter.route('/')
-    .post(scoreController.postScore)
+    .post(authentificationMiddleware(), scoreController.postScore)
 
 module.exports = scoreRouter

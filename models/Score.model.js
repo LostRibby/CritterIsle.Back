@@ -1,18 +1,22 @@
-const {Schema, model} = require('mongoose');
+ const mongoose = require('mongoose');
+const {Schema, model} = mongoose;
 
 const ScoreSchema = new Schema( 
     {
 user:{
     type: mongoose.Schema.Types.ObjectId,
-    ref: "Users",
+    ref: "User",
+    required: false,
+},
+score :{
+    type: Number,
     required: true,
+}, 
 },
-Score : Number,
-createdAt: {
-    type : Date,
-    default : Date.now 
+{
+    timestamps : true,
 
-},
-}); 
-const Score = model('Scores',ScoreSchema);
+}, 
+); 
+const Score = model('Score',ScoreSchema);
 module.exports = Score; 
